@@ -1,6 +1,26 @@
 # Hacker Roadmap
 
-This repository is a summary of hacking tools to practice ethical hacking, pen testing and web security. Most of these tools are UNIX compatible and MIT licensed.
+This repository is a guide for amateurs pen testers and a summary of hacking tools to practice ethical hacking, pen testing and web security. Most of these tools are UNIX compatible and MIT licensed.
+
+## Wants you become a penetration tester ?
+
+Know about risks on the internet and how they can be prevented is very useful. Especially as a developer. Web hacking and penetration testing is the v2.0 of self-defense! But does know about tools and how to use them is really all you need to become a pen tester? Surely not. A real penetration tester must be able to proceed rigorously and detect the weaknesses of an application. He must be able to identify the technology behind and test every single door that might be open to hackers.
+
+This repository aim to first explain how to proceed as a penetration tester to secure an application. And secondly, to regroup all kind of tools pen testers need to test applications.
+
+## Languages
+
+- Python
+- Ruby
+- C / C#
+- Perl
+
+## Content Management Systems
+
+- Wordpress
+- Joomla
+- Drupal
+- SPIP
 
 ## Tools by category
 
