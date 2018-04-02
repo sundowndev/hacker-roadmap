@@ -27,6 +27,7 @@ Used for intrusion detection and wifi attacks.
 
 Acesss systems and data with service-oriented exploits.
 
+- [SQLmap](https://github.com/sqlmapproject/sqlmap) **Python** | `Linux/Windows/MacOS` | Automatic SQL injection and database takeover tool.
 - [XSStrike](https://github.com/UltimateHackers/XSStrike) **Python** | `Linux/Windows/MacOS` | Advanced XSS detection and exploitation suite.
 
 #### :busts_in_silhouette: Sniffing & Spoofing
