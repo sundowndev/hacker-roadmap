@@ -41,6 +41,8 @@ Listen to network traffic or fake a network entity.
 Exploit popular CMSs that are hosted online.
 
 - [WPScan](https://github.com/wpscanteam/wpscan) **Ruby** | `Linux/Windows/MacOS` | WPScan is a black box WordPress vulnerability scanner.
+- [Droopescan](https://github.com/droope/droopescan) **Python** | `Linux/Windows/MacOS` | A plugin-based scanner to identify issues with several CMSs, mainly Drupal & Silverstripe.
+- [Joomscan](https://github.com/rezasp/joomscan) **Perl** | `Linux/Windows/MacOS` | Joomla Vulnerability Scanner.
 
 #### :zap: Private Web Hacking
 
