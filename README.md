@@ -124,4 +124,3 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 
 - [The Life of a Security Researcher](https://www.alienvault.com/blogs/security-essentials/the-life-of-a-security-researcher)
 - [Find an awesome hacking spots in your country](https://github.com/diasdavid/awesome-hacking-spots)
-- [Generate random hacker quotes so you can sound just like one](https://github.com/melvinsh/hacker-actor)
