@@ -40,7 +40,7 @@ Listen to network traffic or fake a network entity.
 
 Exploit popular CMSs that are hosted online.
 
-...
+- [WPScan](https://github.com/wpscanteam/wpscan) **Ruby** | `Linux/Windows/MacOS` | WPScan is a black box WordPress vulnerability scanner.
 
 #### :zap: Private Web Hacking
 
