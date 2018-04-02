@@ -12,8 +12,10 @@ This repository aim to first explain how to proceed as a penetration tester to s
 
 - Python
 - Ruby
-- C / C#
+- C / C++ / C#
 - Perl
+- Go
+- Java
 
 ## Content Management Systems
 
@@ -28,41 +30,51 @@ This repository aim to first explain how to proceed as a penetration tester to s
 
 Information Gathering tools allows you to collect host metadata about services and users. Check informations about a domain, IP address, phone number or an email address.
 
-- [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) **Perl** | `Linux/Windows/MacOS` | All in one tool for Information Gathering written in Perl.
+- [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) **Perl** | `Linux/Windows/macOS` | All in one tool for Information Gathering written in Perl.
 - [Crips](https://github.com/Manisso/Crips) **Python** | `Linux/Android` | IP Tools To quickly get information about IP Address's, Web Pages and DNS records.
+- [theHarvester](https://github.com/laramies/theHarvester) **Python** | `Linux/macOS` | E-mails, subdomains and names Harvester.
 
 #### :lock: Password Attacks
 
 Crack passwords and create wordlists.
 
-...
+- [John the Ripper](https://github.com/magnumripper/JohnTheRipper) **C** | `Linux/Windows/macOS` | John the Ripper is a fast password cracker.
+- [hashcat](https://github.com/hashcat/hashcat) **C** | `Linux/Windows/macOS` | World's fastest and most advanced password recovery utility.
+- [Hydra](https://github.com/vanhauser-thc/thc-hydra) **C** | `Linux/Windows/macOS` | Parallelized login cracker which supports numerous protocols to attack.
+- [ophcrack](https://gitlab.com/objectifsecurite/ophcrack) **C++** | `Linux/Windows/macOS` | Windows password cracker based on rainbow tables.
+- [Ncrack](https://github.com/nmap/ncrack) **C** | `Linux/Windows/macOS` | High-speed network authentication cracking tool.
+
+###### :memo: Wordlists
+
+- [Probable Worlist](https://github.com/berzerk0/Probable-Wordlists) | Wordlists sorted by probability originally created for password generation and testing.
 
 #### :globe_with_meridians: Wireless Testing
 
 Used for intrusion detection and wifi attacks.
 
-- [Aircrack](https://github.com/aircrack-ng/aircrack-ng) **C** | `Linux/Windows/MacOS` | WiFi security auditing tools suite.
+- [Aircrack](https://github.com/aircrack-ng/aircrack-ng) **C** | `Linux/Windows/macOS` | WiFi security auditing tools suite.
+- [bettercap](https://github.com/bettercap/bettercap) **Go** | `Linux/Windows/macOS/Android` | bettercap is the Swiss army knife for network attacks and monitoring.
 
 #### :wrench: Exploitation Tools
 
 Acesss systems and data with service-oriented exploits.
 
-- [SQLmap](https://github.com/sqlmapproject/sqlmap) **Python** | `Linux/Windows/MacOS` | Automatic SQL injection and database takeover tool.
-- [XSStrike](https://github.com/UltimateHackers/XSStrike) **Python** | `Linux/Windows/MacOS` | Advanced XSS detection and exploitation suite.
+- [SQLmap](https://github.com/sqlmapproject/sqlmap) **Python** | `Linux/Windows/macOS` | Automatic SQL injection and database takeover tool.
+- [XSStrike](https://github.com/UltimateHackers/XSStrike) **Python** | `Linux/Windows/macOS` | Advanced XSS detection and exploitation suite.
 
 #### :busts_in_silhouette: Sniffing & Spoofing
 
 Listen to network traffic or fake a network entity.
 
-...
+- [Wireshark](https://www.wireshark.org) **C/C++** | `Linux/Windows/macOS` | Wireshark is a network protocol analyzer.
 
 #### :rocket: Web Hacking
 
 Exploit popular CMSs that are hosted online.
 
-- [WPScan](https://github.com/wpscanteam/wpscan) **Ruby** | `Linux/Windows/MacOS` | WPScan is a black box WordPress vulnerability scanner.
-- [Droopescan](https://github.com/droope/droopescan) **Python** | `Linux/Windows/MacOS` | A plugin-based scanner to identify issues with several CMSs, mainly Drupal & Silverstripe.
-- [Joomscan](https://github.com/rezasp/joomscan) **Perl** | `Linux/Windows/MacOS` | Joomla Vulnerability Scanner.
+- [WPScan](https://github.com/wpscanteam/wpscan) **Ruby** | `Linux/Windows/macOS` | WPScan is a black box WordPress vulnerability scanner.
+- [Droopescan](https://github.com/droope/droopescan) **Python** | `Linux/Windows/macOS` | A plugin-based scanner to identify issues with several CMSs, mainly Drupal & Silverstripe.
+- [Joomscan](https://github.com/rezasp/joomscan) **Perl** | `Linux/Windows/macOS` | Joomla Vulnerability Scanner.
 
 #### :zap: Private Web Hacking
 
@@ -80,6 +92,12 @@ Exploits for after you have already gained access.
 
 Frameworks are packs of pen testing tools with custom shell navigation and documentation.
 
-- [Metasploit](https://github.com/rapid7/metasploit-framework) **Ruby** | `Linux/Windows/MacOS` | A penetration testing framework for ethical hackers.
-- [fsociety](https://github.com/Manisso/fsociety) **Python** | `Linux/Windows/MacOS` | fsociety Hacking Tools Pack – A Penetration Testing Framework.
+- [Metasploit](https://github.com/rapid7/metasploit-framework) **Ruby** | `Linux/Windows/macOS` | A penetration testing framework for ethical hackers.
+- [fsociety](https://github.com/Manisso/fsociety) **Python** | `Linux/Windows/macOS` | fsociety Hacking Tools Pack – A Penetration Testing Framework.
 - [cSploit](https://github.com/cSploit/android) **Java** | `Android` | The most complete and advanced IT security professional toolkit on Android.
+- [radare2](https://github.com/radare/radare2) **C** | `Linux/Windows/macOS/Android` | Unix-like reverse engineering framework and commandline tools.
+- [Social Engineer Toolkit](https://github.com/trustedsec/social-engineer-toolkit) **Python** | `Linux/macOS` | Penetration testing framework designed for social engineering.
+- [hate_crack](https://github.com/trustedsec/hate_crack) **Python** | `Linux/macOS` | A tool for automating cracking methodologies through Hashcat.
+- [Wifiphisher](https://github.com/wifiphisher/wifiphisher) **Python** | `Linux` | The Rogue Access Point Framework.
+- [Kickthemout](https://github.com/k4m4/kickthemout) **Python** | `Linux/macOS` | Kick devices off your network by performing an ARP Spoof attack.
+
