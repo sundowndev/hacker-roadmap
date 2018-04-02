@@ -57,6 +57,6 @@ Exploits for after you have already gained access.
 
 Frameworks are packs of pen testing tools with custom shell navigation and documentation.
 
-- [Metasploit](https://github.com/rapid7/metasploit-framework) **Ruby** | `Linux/Windows/MacOS` | A penetration testing framework for ethical hackers
-- [fsociety](https://github.com/Manisso/fsociety) **Python** | fsociety Hacking Tools Pack – A Penetration Testing Framework
+- [Metasploit](https://github.com/rapid7/metasploit-framework) **Ruby** | `Linux/Windows/MacOS` | A penetration testing framework for ethical hackers.
+- [fsociety](https://github.com/Manisso/fsociety) **Python** | fsociety Hacking Tools Pack – A Penetration Testing Framework.
 - [cSploit](https://github.com/cSploit/android) **Java** | `Android` | The most complete and advanced IT security professional toolkit on Android.
