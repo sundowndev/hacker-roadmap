@@ -53,7 +53,7 @@ Exploits for after you have already gained access.
 
 ...
 
-#### Frameworks
+#### :package: Frameworks
 
 Frameworks are packs of pen testing tools with custom shell navigation and documentation.
 
