@@ -53,9 +53,9 @@ Exploits for after you have already gained access.
 
 ...
 
-#### Community Bundles
+#### Frameworks
 
-Community bundles are a pack of pen testing tools with custom shell navigation and documentation.
+Frameworks are packs of pen testing tools with custom shell navigation and documentation.
 
 - [Metasploit](https://github.com/rapid7/metasploit-framework) **Ruby** | A penetration testing framework for ethical hackers
 - [fsociety](https://github.com/Manisso/fsociety) **Python** | fsociety Hacking Tools Pack – A Penetration Testing Framework
