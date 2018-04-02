@@ -1,53 +1,53 @@
 # Hacker Roadmap
 
-This repository is a summary of hacking tools to practice ethical hacking, pen testing and web security. All of these tools are (atleast) UNIX compatible and MIT licensed.
+This repository is a summary of hacking tools to practice ethical hacking, pen testing and web security. Most of these tools are UNIX compatible and MIT licensed.
 
 ## Tools by category
 
-#### Information Gathering
+#### :male_detective: Information Gathering
 
 Information Gathering tools allows you to collect host metadata about services and users. Check informations about a domain, IP address, phone number or an email address.
 
 - [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) **Perl** | All in one tool for Information Gathering written in Perl.
 - [Crips](https://github.com/Manisso/Crips) **Python** | IP Tools To quickly get information about IP Address's, Web Pages and DNS records.
 
-#### Password Attacks
+#### :lock: Password Attacks
 
 Crack passwords and create wordlists.
 
 ...
 
-#### Wireless Testing
+#### :globe_with_meridians: Wireless Testing
 
 Used for intrusion detection and wifi attacks.
 
 ...
 
-#### Exploitation Tools
+#### :wrench: Exploitation Tools
 
 Acesss systems and data with service-oriented exploits.
 
 ...
 
-#### Sniffing & Spoofing
+#### :busts_in_silhouette: Sniffing & Spoofing
 
 Listen to network traffic or fake a network entity.
 
 ...
 
-#### Web Hacking
+#### :rocket: Web Hacking
 
 Exploit popular CMSs that are hosted online.
 
 ...
 
-#### Private Web Hacking
+#### :zap: Private Web Hacking
 
 Access files and databases.
 
 ...
 
-#### Post Exploitation
+#### :tada: Post Exploitation
 
 Exploits for after you have already gained access.
 
