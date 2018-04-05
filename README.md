@@ -40,15 +40,15 @@ This repository aim first to establish a reflection method on penetration testin
 
 ## Categories and attacks
 
-##### [:male_detective: Information Gathering](#male_detective-information-gathering)
-##### [:lock: Password Attacks](#lock-password-attacks) : Brute Force ...
-##### [:globe_with_meridians: Wireless Testing](#globe_with_meridians-wireless-testing)
-##### [:wrench: Exploitation Tools](#wrench-exploitation-tools) : XSS, SQL injection, CSRF ...
-##### [:busts_in_silhouette: Sniffing & Spoofing](#busts_in_silhouette-sniffing--spoofing) : MITM ...
-##### [:rocket: Web Hacking](#rocket-web-hacking)
-##### [:zap: Private Web Hacking](#zap-private-web-hacking)
-##### [:tada: Post Exploitation](#tada-post-exploitation)
-##### [:package: Frameworks](#package-frameworks)
+##### [Information Gathering](#male_detective-information-gathering)
+##### [Password Attacks](#lock-password-attacks) : Brute Force ...
+##### [Wireless Testing](#globe_with_meridians-wireless-testing)
+##### [Exploitation Tools](#wrench-exploitation-tools) : XSS, SQL injection, CSRF ...
+##### [Sniffing & Spoofing](#busts_in_silhouette-sniffing--spoofing) : MITM ...
+##### [Web Hacking](#rocket-web-hacking)
+##### [Private Web Hacking](#zap-private-web-hacking)
+##### [Post Exploitation](#tada-post-exploitation)
+##### [Frameworks](#package-frameworks)
 
 ## Basic steps of pen testing
 
