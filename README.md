@@ -12,7 +12,7 @@ If a system is not secured, then any attacker can disrupt or take authorized acc
 
 Know about risks on the internet and how they can be prevented is very useful. Especially as a developer. Web hacking and penetration testing is the v2.0 of self-defense! But does know about tools and how to use them is really all you need to become a pen tester? Surely not. A real penetration tester must be able to proceed rigorously and detect the weaknesses of an application. He must be able to identify the technology behind and test every single door that might be open to hackers.
 
-This repository aim first to establish a reflection method on penetration testing and explain how to proceed to secure an application. And secondly, to regroup all kind of tools pen testers need to test applications. **Be sure to know basics of programming languages and Internet security before learning pen testing.**
+This repository aim first to establish a reflection method on penetration testing and explain how to proceed to secure an application. And secondly, to regroup all kind of tools or resources pen testers need. **Be sure to know basics of programming languages and Internet security before learning pen testing.**
 
 ## Some vocabulary
 
@@ -37,6 +37,18 @@ This repository aim first to establish a reflection method on penetration testin
 - Joomla
 - Drupal
 - SPIP
+
+## Categories and attacks
+
+##### [:male_detective: Information Gathering](#male_detective-information-gathering)
+##### [:lock: Password Attacks](#lock-password-attacks) : Brute Force ...
+##### [:globe_with_meridians: Wireless Testing](#globe_with_meridians-wireless-testing)
+##### [:wrench: Exploitation Tools](#wrench-exploitation-tools) : XSS, SQL injection, CSRF ...
+##### [:busts_in_silhouette: Sniffing & Spoofing](#busts_in_silhouette-sniffing--spoofing) : MITM ...
+##### [:rocket: Web Hacking](#rocket-web-hacking)
+##### [:zap: Private Web Hacking](#zap-private-web-hacking)
+##### [:tada: Post Exploitation](#tada-post-exploitation)
+##### [:package: Frameworks](#package-frameworks)
 
 ## Basic steps of pen testing
 
