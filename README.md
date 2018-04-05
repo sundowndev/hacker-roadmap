@@ -16,7 +16,7 @@ This repository aim first to establish a reflection method on penetration testin
 
 ## Some vocabulary
 
-**[black|grey|white hat] hacker** : Someone who uses bugs or exploits to break into systems or applications. The goal and the method differs depending if he's a black, grey or white hat hacker.
+**(black/grey/white hat) hacker** : Someone who uses bugs or exploits to break into systems or applications. The goal and the method differs depending if he's a black, grey or white hat hacker.
 
 **Penetration tester** : Most likely a white hacker who test applications and systems to secure them or find vulnerabilities.
 
