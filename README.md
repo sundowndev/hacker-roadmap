@@ -12,15 +12,15 @@ If a system is not secured, then any attacker can disrupt or take authorized acc
 
 Know about risks on the internet and how they can be prevented is very useful. Especially as a developer. Web hacking and penetration testing is the v2.0 of self-defense! But does know about tools and how to use them is really all you need to become a pen tester? Surely not. A real penetration tester must be able to proceed rigorously and detect the weaknesses of an application. He must be able to identify the technology behind and test every single door that might be open to hackers.
 
-This repository aim first to establish a reflection method on penetration testing and explain how to proceed to secure an application. And secondly, to regroup all kind of tools pen testers need to test applications.
+This repository aim first to establish a reflection method on penetration testing and explain how to proceed to secure an application. And secondly, to regroup all kind of tools pen testers need to test applications. **Be sure to know basics of programming languages and Internet security before learning pen testing.**
 
 ## Some vocabulary
 
-**(black/grey/white hat) hacker** : Someone who uses bugs or exploits to break into systems or applications. The goal and the method differs depending if he's a black, grey or white hat hacker.
+**Black/grey/white hat hacker** : Someone who uses bugs or exploits to break into systems or applications. The goal and the method differs depending if he's a black, grey or white hat hacker.
 
 **Penetration tester** : Most likely a white hacker who test applications and systems to secure them or find vulnerabilities.
 
-**Infosec** : A security researcher who practice pen testing and browse the web everyday to find phishing or fake websites, infected servers, bugs or vulnerabilities. He can work for a company so he's responsible for the security of systems.
+**Security researcher** : Someone who practice pen testing and browse the web everyday to find phishing/fake websites, infected servers, bugs or vulnerabilities. He can work for a company so he's responsible for the security of systems.
 
 ## Languages
 
@@ -73,6 +73,7 @@ Used for intrusion detection and wifi attacks.
 
 - [Aircrack](https://github.com/aircrack-ng/aircrack-ng) **C** | `Linux/Windows/macOS` | WiFi security auditing tools suite.
 - [bettercap](https://github.com/bettercap/bettercap) **Go** | `Linux/Windows/macOS/Android` | bettercap is the Swiss army knife for network attacks and monitoring.
+- [WiFi Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) **Python** | `Linux/Windows/macOS/Android`| Framework for Rogue Wi-Fi Access Point Attack.
 
 #### :wrench: Exploitation Tools
 
