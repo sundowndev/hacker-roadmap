@@ -1,6 +1,6 @@
 # Hacker Roadmap
 
-This repository is a guide for amateurs pen testers and a summary of hacking tools to practice ethical hacking, pen testing and web security. Most of these tools are UNIX compatible and MIT licensed.
+This repository is a guide for amateurs pen testers and a summary of hacking tools to practice ethical hacking, pen testing and web security. Most of these tools are UNIX compatible and MIT licensed. *Note that Linux is the best operating system to practice ethical hacking.*
 
 ## What is prenetration testing ?
 
@@ -63,6 +63,7 @@ Information Gathering tools allows you to collect host metadata about services a
 - [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) **Perl** | `Linux/Windows/macOS` | All in one tool for Information Gathering written in Perl.
 - [Crips](https://github.com/Manisso/Crips) **Python** | `Linux/Android` | IP Tools To quickly get information about IP Address's, Web Pages and DNS records.
 - [theHarvester](https://github.com/laramies/theHarvester) **Python** | `Linux/macOS` | E-mails, subdomains and names Harvester.
+- [Scanless](https://github.com/vesche/scanless) **Python** | `Linux/macOS` | Online port scan scraper.
 
 #### :lock: Password Attacks
 
