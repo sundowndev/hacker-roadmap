@@ -64,6 +64,7 @@ Information Gathering tools allows you to collect host metadata about services a
 - [Crips](https://github.com/Manisso/Crips) **Python** | `Linux/Android` | IP Tools To quickly get information about IP Address's, Web Pages and DNS records.
 - [theHarvester](https://github.com/laramies/theHarvester) **Python** | `Linux/macOS` | E-mails, subdomains and names Harvester.
 - [Scanless](https://github.com/vesche/scanless) **Python** | `Linux/macOS` | Online port scan scraper.
+- [CTFR](https://github.com/UnaPibaGeek/ctfr) **Python**  | `Linux/macOS` | Abusing Certificate Transparency logs for getting HTTPS websites subdomains.
 
 #### :lock: Password Attacks
 
