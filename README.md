@@ -73,7 +73,6 @@ Crack passwords and create wordlists.
 - [John the Ripper](https://github.com/magnumripper/JohnTheRipper) **C** | `Linux/Windows/macOS` | John the Ripper is a fast password cracker.
 - [hashcat](https://github.com/hashcat/hashcat) **C** | `Linux/Windows/macOS` | World's fastest and most advanced password recovery utility.
 - [Hydra](https://github.com/vanhauser-thc/thc-hydra) **C** | `Linux/Windows/macOS` | Parallelized login cracker which supports numerous protocols to attack.￼
-
 - [ophcrack](https://gitlab.com/objectifsecurite/ophcrack) **C++** | `Linux/Windows/macOS` | Windows password cracker based on rainbow tables.
 - [Ncrack](https://github.com/nmap/ncrack) **C** | `Linux/Windows/macOS` | High-speed network authentication cracking tool.
 
