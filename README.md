@@ -2,6 +2,8 @@
 
 This repository is a guide for amateurs pen testers and a summary of hacking tools to practice ethical hacking, pen testing and web security. Most of these tools are UNIX compatible and MIT licensed. *Note that Linux is the best operating system to practice ethical hacking.*
 
+**Important note :** I am NOT a professional pen tester or infosec, I am just a student who want to learn and taught to others. Feel free to contribute and give corrections!
+
 ## What is penetration testing ?
 
 Penetration testing is a type of security testing that is used to test the insecurity of an application. It is conducted to find the security risk which might be present in the system.
