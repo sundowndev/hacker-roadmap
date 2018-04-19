@@ -2,8 +2,6 @@
 
 This repository is a guide for amateurs pen testers and a summary of hacking tools to practice ethical hacking, pen testing and web security. Most of these tools are UNIX compatible and MIT licensed. *Note that Linux is the best operating system to practice ethical hacking.*
 
-**Important note :** I am NOT a professional pen tester or infosec, I am just a student who want to learn and taught to others. Feel free to contribute and give corrections!
-
 ## What is penetration testing ?
 
 Penetration testing is a type of security testing that is used to test the insecurity of an application. It is conducted to find the security risk which might be present in the system.
@@ -23,6 +21,10 @@ This repository aim first to establish a reflection method on penetration testin
 **Penetration tester** : Most likely a white hacker who test applications and systems to secure them or find vulnerabilities.
 
 **Security researcher** : Someone who practice pen testing and browse the web everyday to find phishing/fake websites, infected servers, bugs or vulnerabilities. He can work for a company so he's responsible for the security of systems.
+
+### Difference between hacking and ethical hacking
+
+A black hat is practicing penetration testing, but unlike a white hat, this is not ethical hacking. Ethical hacking is about find vulnerabilities and improve the security of a system. An ethical hacker is the ultimate security professional. Ethical hackers know how to find and exploit vulnerabilities and weaknesses in various systems, just like a malicious hacker (a black hat hacker). In fact, they both use the same skills; however, an ethical hacker uses those skills in a legitimate, lawful manner to try to find vulnerabilities and fix them before the bad guys can get there and try to break in. An ethical hacker is basically a white hat hacker.
 
 ## Languages
 
