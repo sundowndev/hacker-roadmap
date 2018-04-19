@@ -144,3 +144,8 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 
 - [The Life of a Security Researcher](https://www.alienvault.com/blogs/security-essentials/the-life-of-a-security-researcher)
 - [Find an awesome hacking spots in your country](https://github.com/diasdavid/awesome-hacking-spots)
+
+## Discussions
+- [Reddit/HowToHack](https://www.reddit.com/r/HowToHack/) Learn and ask about hacking, security and pen testing.
+- [Reddit/hacking](https://www.reddit.com/r/hacking) Discuss about hacking and web security.
+- [ax0nes](https://ax0nes.com/) Hacking, security, and software development forum.
