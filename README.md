@@ -91,6 +91,7 @@ Used for intrusion detection and wifi attacks.
 - [Aircrack](https://github.com/aircrack-ng/aircrack-ng) **C** | `Linux/Windows/macOS` | WiFi security auditing tools suite.
 - [bettercap](https://github.com/bettercap/bettercap) **Go** | `Linux/Windows/macOS/Android` | bettercap is the Swiss army knife for network attacks and monitoring.
 - [WiFi Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) **Python** | `Linux/Windows/macOS/Android`| Framework for Rogue Wi-Fi Access Point Attack.
+- [Airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) **Shell** | `Linux/Windows/macOS` | This is a multi-use bash script for Linux systems to audit wireless networks.
 
 #### :wrench: Exploitation Tools
 
