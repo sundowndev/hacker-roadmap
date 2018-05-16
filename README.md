@@ -127,7 +127,8 @@ Access files and databases.
 
 Exploits for after you have already gained access.
 
-...
+- [TheFatRat](https://github.com/Screetsec/TheFatRat) **Java**  | `Linux/Windows/macOS` | Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack, dll.
+- [Microsploit](https://github.com/Screetsec/Microsploit) **Shell** | `Linux/Windows/macOS` | Fast and easy create backdoor office exploitation using module metasploit packet , Microsoft Office , Open Office , Macro attack , Buffer Overflow.
 
 #### :package: Frameworks
 
