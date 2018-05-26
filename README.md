@@ -1,5 +1,8 @@
 # Hacker Roadmap
 
+![](https://img.shields.io/github/stars/SundownDEV/hacker-roadmap.svg)
+![](https://img.shields.io/github/forks/SundownDEV/hacker-roadmap.svg)
+
 This repository is a guide for amateurs pen testers and a summary of hacking tools to practice ethical hacking, pen testing and web security. Most of these tools are UNIX compatible and MIT licensed. *Note that Linux is the best operating system to practice ethical hacking.*
 
 ## What is penetration testing ?
@@ -153,3 +156,4 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - [Reddit/HowToHack](https://www.reddit.com/r/HowToHack/) Learn and ask about hacking, security and pen testing.
 - [Reddit/hacking](https://www.reddit.com/r/hacking) Discuss about hacking and web security.
 - [ax0nes](https://ax0nes.com/) Hacking, security, and software development forum.
+- [0Day.rocks on discord](https://discord.gg/WmYzJfD) Discord server about the 0day.rocks blog for technical and general InfoSec/Cyber discussions & latest news.
