@@ -72,6 +72,9 @@ Information Gathering tools allows you to collect host metadata about services a
 - [theHarvester](https://github.com/laramies/theHarvester) **Python** | `Linux/macOS` | E-mails, subdomains and names Harvester.
 - [Scanless](https://github.com/vesche/scanless) **Python** | `Linux/macOS` | Online port scan scraper.
 - [CTFR](https://github.com/UnaPibaGeek/ctfr) **Python**  | `Linux/macOS` | Abusing Certificate Transparency logs for getting HTTPS websites subdomains.
+- [Sn1per](https://github.com/1N3/Sn1per) **bash** | `Linux/macOS` | Automated Pentest Recon Scanner
+- [ReconDog](https://github.com/s0md3v/ReconDog) **Python** | `Linux/macOS` | Recon Dog is an all in one tool for all your basic information gathering needs.
+- [RED Hawk](https://github.com/Tuhinshubhra/RED_HAWK) **PHP** | `Linux/Windows/macOS` | All in one tool for Information Gathering, Vulnerability Scanning and Crawling. A must have tool for all penetration testers.
 
 #### :lock: Password Attacks
 
