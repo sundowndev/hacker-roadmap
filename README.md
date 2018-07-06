@@ -14,13 +14,13 @@ This repository is a guide for amateurs pen testers and a summary of hacking too
 
 # Summary
 
-* Introduction
+* [Introduction](#introduction)
     * [What is penetration testing ?](#what-is-penetration-testing-)
     * [Want to become a penetration tester ?](#want-to-become-a-penetration-tester-)
     * [Some vocabulary](#some-vocabulary)
     * [Languages](#languages)
     * [Content Management Systems](#content-management-systems)
-* [Basic steps of pen testing](#basic-steps-of-pen-testing)
+    * [Basic steps of pen testing](#basic-steps-of-pen-testing)
 * [Tools by category](#tools-by-category)
     * [Information Gathering](#male_detective-information-gathering)
     * [Password Attacks](#lock-password-attacks)
@@ -35,6 +35,8 @@ This repository is a guide for amateurs pen testers and a summary of hacking too
     * [Books / Manuals](#books--manuals)
     * [Discussions](#discussions)
 * [License](#license)
+
+# Introduction
 
 ## What is penetration testing ?
 
@@ -175,6 +177,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 
 # Additional resources
 
+- [Devbreak on Twitter](https://twitter.com/DevbreakFR) Twitter Bot that post articles about security, hacking, opensource, dev, webdesign and more.
 - [The Life of a Security Researcher](https://www.alienvault.com/blogs/security-essentials/the-life-of-a-security-researcher)
 - [Find an awesome hacking spots in your country](https://github.com/diasdavid/awesome-hacking-spots)
 - [Awesome Infosec](https://hackmd.io/s/V1GLSF0R)
