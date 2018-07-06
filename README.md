@@ -12,6 +12,30 @@
 
 This repository is a guide for amateurs pen testers and a summary of hacking tools, resources and references to practice ethical hacking, pen testing and web security. Most of these tools are UNIX compatible and MIT licensed. *Note that Linux is the best operating system to practice ethical hacking.*
 
+# Summary
+
+* Introduction
+    * [What is penetration testing ?](#what-is-penetration-testing-)
+    * [Want to become a penetration tester ?](#want-to-become-a-penetration-tester-)
+    * [Some vocabulary](#some-vocabulary)
+    * [Languages](#languages)
+    * [Content Management Systems](#content-management-systems)
+* [Basic steps of pen testing](#basic-steps-of-pen-testing)
+* [Tools by category](#tools-by-category)
+    * [Information Gathering](#male_detective-information-gathering)
+    * [Password Attacks](#lock-password-attacks)
+    * [Wireless Testing](#globe_with_meridians-wireless-testing)
+    * [Exploitation Tools](#wrench-exploitation-tools)
+    * [Sniffing & Spoofing](#busts_in_silhouette-sniffing--spoofing)
+    * [Web Hacking](#rocket-web-hacking)
+    * [Private Web Hacking](#zap-private-web-hacking)
+    * [Post Exploitation](#tada-post-exploitation)
+    * [Frameworks](#package-frameworks)
+* [Additional resources](#additional-resources)
+    * [Books / Manuals](#books--manuals)
+    * [Discussions](#discussions)
+* [License](#license)
+
 ## What is penetration testing ?
 
 Penetration testing is a type of security testing that is used to test the insecurity of an application. It is conducted to find the security risk which might be present in the system.
@@ -52,21 +76,11 @@ A black hat is practicing penetration testing, but unlike a white hat, this is n
 - Drupal
 - SPIP
 
-## Categories and attacks
-
-##### [Information Gathering](#male_detective-information-gathering)
-##### [Password Attacks](#lock-password-attacks)
-##### [Wireless Testing](#globe_with_meridians-wireless-testing)
-##### [Exploitation Tools](#wrench-exploitation-tools)
-##### [Sniffing & Spoofing](#busts_in_silhouette-sniffing--spoofing)
-##### [Web Hacking](#rocket-web-hacking)
-##### [Private Web Hacking](#zap-private-web-hacking)
-##### [Post Exploitation](#tada-post-exploitation)
-##### [Frameworks](#package-frameworks)
-
 ## Basic steps of pen testing
 
-<p align="center"><img src="https://www.tutorialspoint.com/penetration_testing/images/penetration_testing_method.jpg"></p>
+<p align="center">
+    <img src="https://www.tutorialspoint.com/penetration_testing/images/penetration_testing_method.jpg">
+</p>
 
 ## Tools by category
 
@@ -159,7 +173,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - [Wifiphisher](https://github.com/wifiphisher/wifiphisher) **Python** | `Linux` | The Rogue Access Point Framework.
 - [Kickthemout](https://github.com/k4m4/kickthemout) **Python** | `Linux/macOS` | Kick devices off your network by performing an ARP Spoof attack.
 
-## Additional resources
+# Additional resources
 
 - [The Life of a Security Researcher](https://www.alienvault.com/blogs/security-essentials/the-life-of-a-security-researcher)
 - [Find an awesome hacking spots in your country](https://github.com/diasdavid/awesome-hacking-spots)
@@ -169,7 +183,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 
 **Warning :** I haven't read them all so don't consider I am recommanding as I liked them. They just seems to provide useful resources.
 
-- [Blue Team Field Manuel (BTFM)](https://www.amazon.com/Blue-Team-Field-Manual-BTFM/dp/154101636X)
+- [Blue Team Field Manual (BTFM)](https://www.amazon.com/Blue-Team-Field-Manual-BTFM/dp/154101636X)
 - [Cybersecurity - Attack and Defense Strategies](https://www.amazon.com/Cybersecurity-Defense-Strategies-Infrastructure-security/dp/1788475291)
 - [NMAP Network Scanning : Official Discovery](https://www.amazon.com/Nmap-Network-Scanning-Official-Discovery/dp/0979958717)
 - [Social Engineering : The Art of Human Hacking](https://www.amazon.com/Social-Engineering-Art-Human-Hacking/dp/0470639539)
@@ -180,3 +194,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - [Reddit/hacking](https://www.reddit.com/r/hacking) Discuss about hacking and web security.
 - [ax0nes](https://ax0nes.com/) Hacking, security, and software development forum.
 - [0Day.rocks on discord](https://discord.gg/WmYzJfD) Discord server about the 0day.rocks blog for technical and general InfoSec/Cyber discussions & latest news.
+
+# License
+
+This repository is under MIT license.
