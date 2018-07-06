@@ -68,13 +68,15 @@ A black hat is practicing penetration testing, but unlike a white hat, this is n
 Information Gathering tools allows you to collect host metadata about services and users. Check informations about a domain, IP address, phone number or an email address.
 
 - [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) **Perl** | `Linux/Windows/macOS` | All in one tool for Information Gathering written in Perl.
-- [Crips](https://github.com/Manisso/Crips) **Python** | `Linux/Android` | IP Tools To quickly get information about IP Address's, Web Pages and DNS records.
-- [theHarvester](https://github.com/laramies/theHarvester) **Python** | `Linux/macOS` | E-mails, subdomains and names Harvester.
-- [Scanless](https://github.com/vesche/scanless) **Python** | `Linux/macOS` | Online port scan scraper.
-- [CTFR](https://github.com/UnaPibaGeek/ctfr) **Python**  | `Linux/macOS` | Abusing Certificate Transparency logs for getting HTTPS websites subdomains.
+- [Crips](https://github.com/Manisso/Crips) **Python** | `Linux/Windows/Android` | IP Tools To quickly get information about IP Address's, Web Pages and DNS records.
+- [theHarvester](https://github.com/laramies/theHarvester) **Python** | `Linux/Windows/macOS` | E-mails, subdomains and names Harvester.
+- [Scanless](https://github.com/vesche/scanless) **Python** | `Linux/Windows/macOS` | Online port scan scraper.
+- [CTFR](https://github.com/UnaPibaGeek/ctfr) **Python**  | `Linux/Windows/macOS` | Abusing Certificate Transparency logs for getting HTTPS websites subdomains.
 - [Sn1per](https://github.com/1N3/Sn1per) **bash** | `Linux/macOS` | Automated Pentest Recon Scanner
-- [ReconDog](https://github.com/s0md3v/ReconDog) **Python** | `Linux/macOS` | Recon Dog is an all in one tool for all your basic information gathering needs.
+- [ReconDog](https://github.com/s0md3v/ReconDog) **Python** | `Linux/Windows/macOS` | Recon Dog is an all in one tool for all your basic information gathering needs.
 - [RED Hawk](https://github.com/Tuhinshubhra/RED_HAWK) **PHP** | `Linux/Windows/macOS` | All in one tool for Information Gathering, Vulnerability Scanning and Crawling. A must have tool for all penetration testers.
+- [Infoga](https://github.com/m4ll0k/Infoga) **Python** | `Linux/Windows/macOS` | Email Information Gathering.
+- [KnockMail](https://github.com/4w4k3/KnockMail) **Python** | `Linux/Windows/macOS` | Check if email address exists.
 
 #### :lock: Password Attacks
 
@@ -140,6 +142,7 @@ Exploits for after you have already gained access.
 
 Frameworks are packs of pen testing tools with custom shell navigation and documentation.
 
+- [Operative Framework](https://github.com/graniet/operative-framework) **Python** | `Linux/Windows/macOS` | Framework based on fingerprint action, this tool is used for get information on a website or a enterprise target with multiple modules.
 - [Metasploit](https://github.com/rapid7/metasploit-framework) **Ruby** | `Linux/Windows/macOS` | A penetration testing framework for ethical hackers.
 - [fsociety](https://github.com/Manisso/fsociety) **Python** | `Linux/Windows/macOS` | fsociety Hacking Tools Pack – A Penetration Testing Framework.
 - [cSploit](https://github.com/cSploit/android) **Java** | `Android` | The most complete and advanced IT security professional toolkit on Android.
