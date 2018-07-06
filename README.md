@@ -1,9 +1,16 @@
-# Hacker Roadmap
+~~~
+    __  __           __                                        __                    
+   / / / /___ ______/ /_____  _____      _________  ____ _____/ /___ ___  ____ _____ 
+  / /_/ / __ `/ ___/ //_/ _ \/ ___/_____/ ___/ __ \/ __ `/ __  / __ `__ \/ __ `/ __ \
+ / __  / /_/ / /__/ ,< /  __/ /  /_____/ /  / /_/ / /_/ / /_/ / / / / / / /_/ / /_/ /
+/_/ /_/\__,_/\___/_/|_|\___/_/        /_/   \____/\__,_/\__,_/_/ /_/ /_/\__,_/ .___/ 
+                                                                            /_/      
+~~~
 
 ![](https://img.shields.io/github/stars/SundownDEV/hacker-roadmap.svg)
 ![](https://img.shields.io/github/forks/SundownDEV/hacker-roadmap.svg)
 
-This repository is a guide for amateurs pen testers and a summary of hacking tools to practice ethical hacking, pen testing and web security. Most of these tools are UNIX compatible and MIT licensed. *Note that Linux is the best operating system to practice ethical hacking.*
+This repository is a guide for amateurs pen testers and a summary of hacking tools, resources and references to practice ethical hacking, pen testing and web security. Most of these tools are UNIX compatible and MIT licensed. *Note that Linux is the best operating system to practice ethical hacking.*
 
 ## What is penetration testing ?
 
@@ -48,10 +55,10 @@ A black hat is practicing penetration testing, but unlike a white hat, this is n
 ## Categories and attacks
 
 ##### [Information Gathering](#male_detective-information-gathering)
-##### [Password Attacks](#lock-password-attacks) : Brute Force ...
+##### [Password Attacks](#lock-password-attacks)
 ##### [Wireless Testing](#globe_with_meridians-wireless-testing)
-##### [Exploitation Tools](#wrench-exploitation-tools) : XSS, SQL injection, CSRF ...
-##### [Sniffing & Spoofing](#busts_in_silhouette-sniffing--spoofing) : MITM ...
+##### [Exploitation Tools](#wrench-exploitation-tools)
+##### [Sniffing & Spoofing](#busts_in_silhouette-sniffing--spoofing)
 ##### [Web Hacking](#rocket-web-hacking)
 ##### [Private Web Hacking](#zap-private-web-hacking)
 ##### [Post Exploitation](#tada-post-exploitation)
@@ -157,6 +164,16 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - [The Life of a Security Researcher](https://www.alienvault.com/blogs/security-essentials/the-life-of-a-security-researcher)
 - [Find an awesome hacking spots in your country](https://github.com/diasdavid/awesome-hacking-spots)
 - [Awesome Infosec](https://hackmd.io/s/V1GLSF0R)
+
+## Books / Manuals
+
+**Warning :** I haven't read them all so don't consider I am recommanding as I liked them. They just seems to provide useful resources.
+
+- [Blue Team Field Manuel (BTFM)](https://www.amazon.com/Blue-Team-Field-Manual-BTFM/dp/154101636X)
+- [Cybersecurity - Attack and Defense Strategies](https://www.amazon.com/Cybersecurity-Defense-Strategies-Infrastructure-security/dp/1788475291)
+- [NMAP Network Scanning : Official Discovery](https://www.amazon.com/Nmap-Network-Scanning-Official-Discovery/dp/0979958717)
+- [Social Engineering : The Art of Human Hacking](https://www.amazon.com/Social-Engineering-Art-Human-Hacking/dp/0470639539)
+- [Incognito Toolkit: Tools, Apps, and Creative Methods for Remaining Anonymous](https://www.amazon.com/Incognito-Toolkit-Communicating-Publishing-Researching/dp/0985049146)
 
 ## Discussions
 - [Reddit/HowToHack](https://www.reddit.com/r/HowToHack/) Learn and ask about hacking, security and pen testing.
