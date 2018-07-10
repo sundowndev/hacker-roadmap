@@ -93,30 +93,36 @@ A black hat is practicing penetration testing, but unlike a white hat, this is n
 
 Information Gathering tools allows you to collect host metadata about services and users. Check informations about a domain, IP address, phone number or an email address.
 
-- [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) **Perl** | `Linux/Windows/macOS` | All in one tool for Information Gathering written in Perl.
-- [Crips](https://github.com/Manisso/Crips) **Python** | `Linux/Windows/Android` | IP Tools To quickly get information about IP Address's, Web Pages and DNS records.
-- [theHarvester](https://github.com/laramies/theHarvester) **Python** | `Linux/Windows/macOS` | E-mails, subdomains and names Harvester.
-- [Scanless](https://github.com/vesche/scanless) **Python** | `Linux/Windows/macOS` | Online port scan scraper.
-- [CTFR](https://github.com/UnaPibaGeek/ctfr) **Python**  | `Linux/Windows/macOS` | Abusing Certificate Transparency logs for getting HTTPS websites subdomains.
-- [Sn1per](https://github.com/1N3/Sn1per) **bash** | `Linux/macOS` | Automated Pentest Recon Scanner
-- [ReconDog](https://github.com/s0md3v/ReconDog) **Python** | `Linux/Windows/macOS` | Recon Dog is an all in one tool for all your basic information gathering needs.
-- [RED Hawk](https://github.com/Tuhinshubhra/RED_HAWK) **PHP** | `Linux/Windows/macOS` | All in one tool for Information Gathering, Vulnerability Scanning and Crawling. A must have tool for all penetration testers.
-- [Infoga](https://github.com/m4ll0k/Infoga) **Python** | `Linux/Windows/macOS` | Email Information Gathering.
-- [KnockMail](https://github.com/4w4k3/KnockMail) **Python** | `Linux/Windows/macOS` | Check if email address exists.
+| Tool        | Language           | Support  | Description    |
+| ----------- |-------------------------|----------|----------------|
+| [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector)      | **Perl** | `Linux/Windows/macOS` | All in one tool for Information Gathering written in Perl. |
+| [Crips](https://github.com/Manisso/Crips)      | **Python** | `Linux/Windows/macOS` | IP Tools To quickly get information about IP Address's, Web Pages and DNS records. |
+| [theHarvester](https://github.com/laramies/theHarvester)      | **Python** | `Linux/Windows/macOS` | E-mails, subdomains and names Harvester. |
+| [Scanless](https://github.com/vesche/scanless)      | **Python** | `Linux/Windows/macOS` | Online port scan scraper. |
+| [CTFR](https://github.com/UnaPibaGeek/ctfr)      | **Python** | `Linux/Windows/macOS` | Abusing Certificate Transparency logs for getting HTTPS websites subdomains. |
+| [Sn1per](https://github.com/1N3/Sn1per)      | **bash** | `Linux/macOS` | Automated Pentest Recon Scanner. |
+| [ReconDog](https://github.com/s0md3v/ReconDog)      | **Python** | `Linux/Windows/macOS` | Recon Dog is an all in one tool for all your basic information gathering needs. |
+| [RED Hawk](https://github.com/Tuhinshubhra/RED_HAWK)      | **PHP** | `Linux/Windows/macOS` | All in one tool for Information Gathering, Vulnerability Scanning and Crawling. A must have tool for all penetration testers. |
+| [Infoga](https://github.com/m4ll0k/Infoga)      | **Python** | `Linux/Windows/macOS` | Email Information Gathering. |
+| [KnockMail](https://github.com/4w4k3/KnockMail)      | **Python** | `Linux/Windows/macOS` | Check if email address exists. |
 
 #### :lock: Password Attacks
 
 Crack passwords and create wordlists.
 
-- [John the Ripper](https://github.com/magnumripper/JohnTheRipper) **C** | `Linux/Windows/macOS` | John the Ripper is a fast password cracker.
-- [hashcat](https://github.com/hashcat/hashcat) **C** | `Linux/Windows/macOS` | World's fastest and most advanced password recovery utility.
-- [Hydra](https://github.com/vanhauser-thc/thc-hydra) **C** | `Linux/Windows/macOS` | Parallelized login cracker which supports numerous protocols to attack.￼
-- [ophcrack](https://gitlab.com/objectifsecurite/ophcrack) **C++** | `Linux/Windows/macOS` | Windows password cracker based on rainbow tables.
-- [Ncrack](https://github.com/nmap/ncrack) **C** | `Linux/Windows/macOS` | High-speed network authentication cracking tool.
+| Tool        | Language           | Support  | Description    |
+| ----------- |-------------------------|----------|----------------|
+| [John the Ripper](https://github.com/magnumripper/JohnTheRipper)      | **C** | `Linux/Windows/macOS` | John the Ripper is a fast password cracker. |
+| [hashcat](https://github.com/hashcat/hashcat)      | **C** | `Linux/Windows/macOS` | World's fastest and most advanced password recovery utility. |
+| [Hydra](https://github.com/vanhauser-thc/thc-hydra)      | **C** | `Linux/Windows/macOS` | Parallelized login cracker which supports numerous protocols to attack.￼ |
+| [ophcrack](https://gitlab.com/objectifsecurite/ophcrack)      | **C++** | `Linux/Windows/macOS` | Windows password cracker based on rainbow tables. |
+| [Ncrack](https://github.com/nmap/ncrack)      | **C** | `Linux/Windows/macOS` | High-speed network authentication cracking tool. |
 
 ###### :memo: Wordlists
 
-- [Probable Worlist](https://github.com/berzerk0/Probable-Wordlists) | Wordlists sorted by probability originally created for password generation and testing.
+| Tool        | Description    |
+| ----------- |----------------|
+| [Probable Worlist](https://github.com/berzerk0/Probable-Wordlists)      | Wordlists sorted by probability originally created for password generation and testing. |
 
 #### :globe_with_meridians: Wireless Testing
 
