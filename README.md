@@ -134,6 +134,7 @@ Acesss systems and data with service-oriented exploits.
 
 - [SQLmap](https://github.com/sqlmapproject/sqlmap) **Python** | `Linux/Windows/macOS` | Automatic SQL injection and database takeover tool.
 - [XSStrike](https://github.com/UltimateHackers/XSStrike) **Python** | `Linux/Windows/macOS` | Advanced XSS detection and exploitation suite.
+- [Commix](https://github.com/commixproject/commix) **Python** | `Linux/Windows/macOS` | Automated All-in-One OS command injection and exploitation tool.
 
 #### :busts_in_silhouette: Sniffing & Spoofing
 
