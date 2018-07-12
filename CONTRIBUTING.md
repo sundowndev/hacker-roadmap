@@ -4,7 +4,7 @@ Before contributing or comment, please note that I am not a professional infosec
 
 ### Before submitting a new tool
 
-Please don't submit unverified or untested tools. We only want to share the best tools with good community of contributors. If you've created a tool, be sure the code is stable and will be maintened.
+Please don't submit unverified or untested tools. We only want to share the best tools with good community of contributors. If you've created a tool, be sure the code is stable and will be maintained.
 
 ### Q&A
 
