@@ -167,12 +167,6 @@ Exploit popular CMSs that are hosted online.
 | [Drupwn](https://github.com/immunIT/drupwn)      | **Python** | `Linux/Windows/macOS` | Drupal Security Scanner to perform enumerations on Drupal-based web applications. |
 | [Webpwn3r](https://github.com/zigoo0/webpwn3r)      | **Python** | `Linux/Windows/macOS` | Web Applications Security Scanner. |
 
-#### :zap: Private Web Hacking
-
-Access files and databases.
-
-...
-
 #### :tada: Post Exploitation
 
 Exploits for after you have already gained access.
