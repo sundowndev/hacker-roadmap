@@ -37,6 +37,7 @@ This repository is a guide for amateurs pen testers and a summary of hacking too
     * [Books / Manuals](#books--manuals)
     * [Discussions](#discussions)
     * [Security Advisories](#security-advisories)
+    * [Challenges](#challenges)
 * [License](#license)
 
 # Introduction
@@ -194,7 +195,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 
 # Additional resources
 
-- [Devbreak on Twitter](https://twitter.com/DevbreakFR) Twitter Bot that post articles about security, hacking, opensource, dev, webdesign and more.
+- [Devbreak on Twitter](https://twitter.com/DevbreakFR)
 - [The Life of a Security Researcher](https://www.alienvault.com/blogs/security-essentials/the-life-of-a-security-researcher)
 - [Find an awesome hacking spots in your country](https://github.com/diasdavid/awesome-hacking-spots)
 - [Awesome-Hacking Lists](https://github.com/Hack-with-Github/Awesome-Hacking/blob/master/README.md)
@@ -216,7 +217,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 
 ## Books / Manuals
 
-**Warning :** I haven't read them all so don't consider I am recommanding as I liked them. They just seems to provide useful resources.
+**Warning :** I haven't read them all so do not consider I am recommanding as I liked them. They just seems to provide useful resources.
 
 - [Kali Linux Revealed](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf)
 - [Blue Team Field Manual (BTFM)](https://www.amazon.com/Blue-Team-Field-Manual-BTFM/dp/154101636X)
