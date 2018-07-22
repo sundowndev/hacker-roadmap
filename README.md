@@ -239,6 +239,17 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - [NVD](http://web.nvd.nist.gov/)
 - [WVE](http://www.wve.org/)
 
+## Challenges
+
+- [Vulnhub](https://www.vulnhub.com/) - Has a lot of VMs to play with. some are beginner friendly, some aren't.
+- [Itsecgames](http://www.itsecgames.com/) - buggy web app
+- [Dvwa](http://www.dvwa.co.uk/) - Damn Vulnerable Web Application
+- [Hackthissite](https://www.hackthissite.org/)
+- [Hackthis](https://www.hackthis.co.uk/)
+- [Root-me](https://www.root-me.org/)
+- [Overthewire](http://overthewire.org/wargames/)
+- [Ctftime](https://ctftime.org/)
+
 # License
 
 This repository is under MIT license.
