@@ -13,7 +13,7 @@
 ![forks](https://img.shields.io/github/forks/SundownDEV/hacker-roadmap.svg)
 ![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 
-This repository is a guide for amateurs pen testers and a summary of hacking tools, resources and references to practice ethical hacking, pen testing and web security. Most of these tools are UNIX compatible and MIT licensed. *Note that Linux is the best operating system to practice ethical hacking.*
+This repository is a guide for amateurs pen testers and a collection of hacking tools, resources and references to practice ethical hacking, pen testing and web security. Most of these tools are UNIX compatible and MIT licensed. *Note that Linux is the best operating system to practice ethical hacking.*
 
 # Summary
 
