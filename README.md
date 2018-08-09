@@ -31,7 +31,6 @@ This repository is a guide for amateurs pen testers and a summary of hacking too
     * [Exploitation Tools](#wrench-exploitation-tools)
     * [Sniffing & Spoofing](#busts_in_silhouette-sniffing--spoofing)
     * [Web Hacking](#rocket-web-hacking)
-    * [Private Web Hacking](#zap-private-web-hacking)
     * [Post Exploitation](#tada-post-exploitation)
     * [Frameworks](#package-frameworks)
 * [Additional resources](#additional-resources)
@@ -55,11 +54,25 @@ This repository aim first to establish a reflection method on penetration testin
 
 ## Some vocabulary
 
+**Infosec** : ...
+
+**Opsec** : ...
+
 **Black/grey/white hat hacker** : Someone who uses bugs or exploits to break into systems or applications. The goal and the method differs depending if he's a black, grey or white hat hacker. A black hat is just someone malicious that does not wait permission to break into a system or application. A white hat is *usually* a security researcher who practice ethical hacking. A grey hat is just in the middle of these two kind of hackers, he might want to be malicious if it can be benefit (data breach, money, whistleblowing ...).
 
 **Penetration tester** : Most likely a white hacker who test applications and systems to secure them or find vulnerabilities.
 
 **Security researcher** : Someone who practice pen testing and browse the web everyday to find phishing/fake websites, infected servers, bugs or vulnerabilities. He can work for a company so he's responsible for the security of systems.
+
+**Red teamer** : ...
+
+**Blue teamer** : ...
+
+**Reverse engineer** : ...
+
+**Social engineer** : ...
+
+**Threat analyst** : ...
 
 ### Difference between hacking and ethical hacking
 
