@@ -31,12 +31,13 @@ This repository is a guide for amateurs pen testers and a summary of hacking too
     * [Exploitation Tools](#wrench-exploitation-tools)
     * [Sniffing & Spoofing](#busts_in_silhouette-sniffing--spoofing)
     * [Web Hacking](#rocket-web-hacking)
-    * [Private Web Hacking](#zap-private-web-hacking)
     * [Post Exploitation](#tada-post-exploitation)
     * [Frameworks](#package-frameworks)
 * [Additional resources](#additional-resources)
     * [Books / Manuals](#books--manuals)
     * [Discussions](#discussions)
+    * [Security Advisories](#security-advisories)
+    * [Challenges](#challenges)
 * [License](#license)
 
 # Introduction
@@ -156,6 +157,7 @@ Listen to network traffic or fake a network entity.
 | ----------- |-------------------------|----------|----------------|
 | [Wireshark](https://www.wireshark.org)      | **C/C++** | `Linux/Windows/macOS` | Wireshark is a network protocol analyzer. |
 | [WiFi Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin)      | **Python** | `Linux/Windows/macOS/Android` | Framework for Rogue Wi-Fi Access Point Attack. |
+| [Zarp](https://github.com/hatRiot/zarp)      | **Python** | `Linux/Windows/macOS` | A free network attack framework. |
 
 #### :rocket: Web Hacking
 
@@ -196,15 +198,31 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 
 # Additional resources
 
-- [Devbreak on Twitter](https://twitter.com/DevbreakFR) Twitter Bot that post articles about security, hacking, opensource, dev, webdesign and more.
+- [Devbreak on Twitter](https://twitter.com/DevbreakFR)
 - [The Life of a Security Researcher](https://www.alienvault.com/blogs/security-essentials/the-life-of-a-security-researcher)
 - [Find an awesome hacking spots in your country](https://github.com/diasdavid/awesome-hacking-spots)
-- [Awesome Infosec](https://hackmd.io/s/V1GLSF0R)
+- [Awesome-Hacking Lists](https://github.com/Hack-with-Github/Awesome-Hacking/blob/master/README.md)
+- [Citadel Database](https://citadel.pw/)
+- [Crack Station](http://crackstation.net/)
+- [Exploit Database](http://www.exploit-db.com/)
+- [Hackavision](http://www.hackavision.com/)
+- [Hash Generator](http://www.insidepro.com/hashes.php?lang=eng)
+- [Hackmethod](https://www.hackmethod.com/)
+- [Hell Bound Hackers](http://www.hellboundhackers.org/)
+- [Packet Storm Security](http://packetstormsecurity.org/)
+- [Phrack Ezine](http://phrack.org/)
+- [SecLists](http://seclists.org/)
+- [SecTools](http://sectools.org/)
+- [Security Tubes](http://www.securitytube.net/)
+- [Skull Security](http://www.skullsecurity.org/)
+- [Smash the Stack](http://smashthestack.org/)
+- [Sploit Me](http://www.sploit.me.uk/)
 
 ## Books / Manuals
 
-**Warning :** I haven't read them all so don't consider I am recommanding as I liked them. They just seems to provide useful resources.
+**Warning :** I haven't read them all so do not consider I am recommanding as I liked them. They just seems to provide useful resources.
 
+- [Kali Linux Revealed](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf)
 - [Blue Team Field Manual (BTFM)](https://www.amazon.com/Blue-Team-Field-Manual-BTFM/dp/154101636X)
 - [Cybersecurity - Attack and Defense Strategies](https://www.amazon.com/Cybersecurity-Defense-Strategies-Infrastructure-security/dp/1788475291)
 - [NMAP Network Scanning : Official Discovery](https://www.amazon.com/Nmap-Network-Scanning-Official-Discovery/dp/0979958717)
@@ -217,6 +235,24 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - [Reddit/hacking](https://www.reddit.com/r/hacking) Discuss about hacking and web security.
 - [ax0nes](https://ax0nes.com/) Hacking, security, and software development forum.
 - [0Day.rocks on discord](https://discord.gg/WmYzJfD) Discord server about the 0day.rocks blog for technical and general InfoSec/Cyber discussions & latest news.
+
+## Security Advisories
+
+- [CVE](http://cve.mitre.org/)
+- [CWE](http://cwe.mitre.org/)
+- [NVD](http://web.nvd.nist.gov/)
+- [WVE](http://www.wve.org/)
+
+## Challenges
+
+- [Vulnhub](https://www.vulnhub.com/) - Has a lot of VMs to play with. some are beginner friendly, some aren't.
+- [Itsecgames](http://www.itsecgames.com/) - buggy web app
+- [Dvwa](http://www.dvwa.co.uk/) - Damn Vulnerable Web Application
+- [Hackthissite](https://www.hackthissite.org/)
+- [Hackthis](https://www.hackthis.co.uk/)
+- [Root-me](https://www.root-me.org/)
+- [Overthewire](http://overthewire.org/wargames/)
+- [Ctftime](https://ctftime.org/)
 
 # License
 
