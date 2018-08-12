@@ -60,13 +60,13 @@ This repository aim first to establish a reflection method on penetration testin
 
 **Black/grey/white hat hacker** : Someone who uses bugs or exploits to break into systems or applications. The goal and the method differs depending if he's a black, grey or white hat hacker. A black hat is just someone malicious that does not wait permission to break into a system or application. A white hat is *usually* a security researcher who practice ethical hacking. A grey hat is just in the middle of these two kind of hackers, he might want to be malicious if it can be benefit (data breach, money, whistleblowing ...).
 
+**Red team** : According to Wikipedia, a red team or the red team is an independent group that challenges an organization to improve its effectiveness by assuming an adversarial role or point of view. It is particularly effective in organizations with strong cultures and fixed ways of approaching problems. The United States intelligence community (military and civilian) has red teams that explore alternative futures and write articles as if they were foreign world leaders. Little formal doctrine or publications about Red Teaming in the military exist. In infosec exercises, Red teamers are playing the role of attackers. [Read more](https://en.wikipedia.org/wiki/Red_team)
+
+**Blue team** : A blue team is a group of individuals who perform an analysis of information systems to ensure security, identify security flaws, verify the effectiveness of each security measure, and to make certain all security measures will continue to be effective after implementation. As a result, blue teams were developed to design defensive measures against red team activities. In infosec exercises, Blue teamers are playing the role of defenders. [Read more](https://en.wikipedia.org/wiki/Blue_team_(computer_security))
+
 **Penetration tester** : Most likely a white hacker who test applications and systems to secure them or find vulnerabilities.
 
-**Security researcher** : Someone who practice pen testing and browse the web everyday to find phishing/fake websites, infected servers, bugs or vulnerabilities. He can work for a company so he's responsible for the security of systems.
-
-**Red teamer** : ...
-
-**Blue teamer** : ...
+**Security researcher** : Someone who practice pen testing and browse the web to find phishing/fake websites, infected servers, bugs or vulnerabilities. He can work for a company so he's responsible for the security of systems, he is most likely a Blue teamer.
 
 **Reverse engineer** : ...
 
