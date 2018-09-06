@@ -1,17 +1,10 @@
-~~~
-    __  __           __                                        __                    
-   / / / /___ ______/ /_____  _____      _________  ____ _____/ /___ ___  ____ _____ 
-  / /_/ / __ `/ ___/ //_/ _ \/ ___/_____/ ___/ __ \/ __ `/ __  / __ `__ \/ __ `/ __ \
- / __  / /_/ / /__/ ,< /  __/ /  /_____/ /  / /_/ / /_/ / /_/ / / / / / / /_/ / /_/ /
-/_/ /_/\__,_/\___/_/|_|\___/_/        /_/   \____/\__,_/\__,_/_/ /_/ /_/\__,_/ .___/ 
-                                                                            /_/      
-~~~
-
-
-![GitHub issues](https://img.shields.io/github/issues/Sundowndev/hacker-roadmap.svg)
-![stars](https://img.shields.io/github/stars/SundownDEV/hacker-roadmap.svg)
-![forks](https://img.shields.io/github/forks/SundownDEV/hacker-roadmap.svg)
-![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)
+<p align="center">
+    <img src="https://i.imgur.com/VeEYEkT.png" alt="Hacker roadmap" /><br>
+    <img src="https://img.shields.io/github/issues/Sundowndev/hacker-roadmap.svg" alt="GitHub issues">
+    <img src="https://img.shields.io/github/stars/SundownDEV/hacker-roadmap.svg" alt="stars">
+    <img src="https://img.shields.io/github/forks/SundownDEV/hacker-roadmap.svg" alt="forks">
+    <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg" alt="license">
+</p>
 
 This repository is a guide for amateurs pen testers and a summary of hacking tools, resources and references to practice ethical hacking, pen testing and web security. Most of these tools are UNIX compatible and MIT licensed. *Note that Linux is the best operating system to practice ethical hacking.*
 
