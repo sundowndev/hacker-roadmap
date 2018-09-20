@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg" alt="license">
 </p>
 
-This repository is a guide for amateurs pen testers and a summary of hacking tools, resources and references to practice ethical hacking, pen testing and web security. Most of these tools are UNIX compatible and MIT licensed. *Note that Linux is the best operating system to practice ethical hacking.*
+This repository is a guide for amateurs pen testers and a collection of hacking tools, resources and references to practice ethical hacking, pen testing and web security. Most of these tools are UNIX compatible and MIT licensed. *Note that Linux is the best operating system to practice ethical hacking.*
 
 # Summary
 
@@ -51,11 +51,25 @@ Also, this is important to inform yourself about the law and what you are allowe
 
 ## Some vocabulary
 
+**Infosec** : Information security, which is the practice of preventing unauthorized access, use, disclosure, disruption, modification, inspection, recording or destruction of information. The information or data may take any form, e.g. electronic or physical. An infosec can also be a person who practice ethical security. [Wikipedia](https://en.wikipedia.org/wiki/Information_security)
+
+**Opsec** : Operations security, which is a process that identifies critical information to determine if friendly actions can be observed by enemy intelligence, determines if information obtained by adversaries could be interpreted to be useful to them, and then executes selected measures that eliminate or reduce adversary exploitation of friendly critical information. [Wikipedia](https://en.wikipedia.org/wiki/Operations_security)
+
 **Black/grey/white hat hacker** : Someone who uses bugs or exploits to break into systems or applications. The goal and the method differs depending if he's a black, grey or white hat hacker. A black hat is just someone malicious that does not wait permission to break into a system or application. A white hat is *usually* a security researcher who practice ethical hacking. A grey hat is just in the middle of these two kind of hackers, he might want to be malicious if it can be benefit (data breach, money, whistleblowing ...).
 
-**Penetration tester** : Most likely a white hacker who test applications and systems to secure them or find vulnerabilities.
+**Red team** : According to Wikipedia, a red team or the red team is an independent group that challenges an organization to improve its effectiveness by assuming an adversarial role or point of view. It is particularly effective in organizations with strong cultures and fixed ways of approaching problems. The United States intelligence community (military and civilian) has red teams that explore alternative futures and write articles as if they were foreign world leaders. Little formal doctrine or publications about Red Teaming in the military exist. In infosec exercises, Red teamers are playing the role of attackers. [Wikipedia](https://en.wikipedia.org/wiki/Red_team)
 
-**Security researcher** : Someone who practice pen testing and browse the web everyday to find phishing/fake websites, infected servers, bugs or vulnerabilities. He can work for a company so he's responsible for the security of systems.
+**Blue team** : A blue team is a group of individuals who perform an analysis of information systems to ensure security, identify security flaws, verify the effectiveness of each security measure, and to make certain all security measures will continue to be effective after implementation. As a result, blue teams were developed to design defensive measures against red team activities. In infosec exercises, Blue teamers are playing the role of defenders. [Wikipedia](https://en.wikipedia.org/wiki/Blue_team_(computer_security))
+
+**Penetration tester** : An ethical hacker who practice security, test applications and systems to prevent intrusions or find vulnerabilities.
+
+**Security researcher** : Someone who practice pen testing and browse the web to find phishing/fake websites, infected servers, bugs or vulnerabilities. He can work for a company as a security consultant, he is most likely a Blue teamer.
+
+**Reverse engineering** : Reverse engineering, also called back engineering, is the process by which a man-made object is deconstructed to reveal its designs, architecture, or to extract knowledge from the object. Similar to scientific research, the only difference being that scientific research is about a natural phenomenon. [Wikipedia](https://en.wikipedia.org/wiki/Reverse_engineering)
+
+**Social engineering** : In the context of information security, it refers to psychological manipulation of people into performing actions or divulging confidential information. A type of confidence trick for the purpose of information gathering, fraud, or system access, it differs from a traditional "con" in that it is often one of many steps in a more complex fraud scheme. The term "social engineering" as an act of psychological manipulation of a human, is also associated with the social sciences, but its usage has caught on among computer and information security professionals. [Wikipedia](https://en.wikipedia.org/wiki/Social_engineering_(security))
+
+**Threat analyst** : A threat hunter, also called a cybersecurity threat analyst, is a security professional or managed service provider (MSP) that proactively uses manual or machine-assisted techniques to detect security incidents that may elude the grasp of automated systems. Threat hunters aim to uncover incidents that an enterprise would otherwise not find out about, providing chief information security officers (CISOs) and chief information officers (CIOs) with an additional line of defense against advanced persistent threats (APTs). [SearchCIO](https://searchcio.techtarget.com/definition/threat-hunter-cybersecurity-threat-analyst)
 
 ### Difference between hacking and ethical hacking
 
@@ -63,12 +77,14 @@ A black hat is practicing penetration testing, but unlike a white hat, this is n
 
 ## Languages
 
+- PHP
 - Python
 - Ruby
 - C / C++ / C#
 - Perl
 - Go
 - Java
+- Shell
 
 ## Content Management Systems
 
@@ -76,6 +92,7 @@ A black hat is practicing penetration testing, but unlike a white hat, this is n
 - Joomla
 - Drupal
 - SPIP
+- Drupal
 
 ## Basic steps of pen testing
 
