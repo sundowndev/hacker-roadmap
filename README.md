@@ -92,7 +92,6 @@ A black hat is practicing penetration testing, but unlike a white hat, this is n
 - Joomla
 - Drupal
 - SPIP
-- Drupal
 
 ## Basic steps of pen testing
 
