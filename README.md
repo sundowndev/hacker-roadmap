@@ -77,14 +77,14 @@ A black hat is practicing penetration testing, but unlike a white hat, this is n
 
 ## Languages
 
-- PHP
 - Python
 - Ruby
 - C / C++ / C#
 - Perl
+- PHP
 - Go
 - Java
-- Shell
+- Bash
 
 ## Content Management Systems
 
