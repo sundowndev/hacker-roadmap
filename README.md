@@ -236,6 +236,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - [Don't use VPN services](https://gist.github.com/joepie91/5a9909939e6ce7d09e29)
 - [How to Avoid Becoming a Script Kiddie](https://www.wikihow.com/Avoid-Becoming-a-Script-Kiddie)
 - [2017 Top 10 Application Security Risks](https://www.owasp.org/index.php/Top_10-2017_Top_10)
+- [Starting in cybersecurity ?](https://blog.0day.rocks/starting-in-cybersecurity-5b02d827fb54)
 
 ## Books / Manuals
 
