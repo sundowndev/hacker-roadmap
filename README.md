@@ -1,8 +1,6 @@
 <p align="center">
     <img src="https://i.imgur.com/VeEYEkT.png" alt="Hacker roadmap" /><br>
     <img src="https://img.shields.io/github/issues/Sundowndev/hacker-roadmap.svg" alt="GitHub issues">
-    <img src="https://img.shields.io/github/stars/SundownDEV/hacker-roadmap.svg" alt="stars">
-    <img src="https://img.shields.io/github/forks/SundownDEV/hacker-roadmap.svg" alt="forks">
     <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg" alt="license">
 </p>
 
