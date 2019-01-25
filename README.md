@@ -269,6 +269,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - [Hackthissite](https://www.hackthissite.org/)
 - [Hackthis](https://www.hackthis.co.uk/)
 - [Root-me](https://www.root-me.org/)
+- [HackTheBox](https://www.hackthebox.eu/)
 - [Overthewire](http://overthewire.org/wargames/)
 - [Ctftime](https://ctftime.org/)
 
