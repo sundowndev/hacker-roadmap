@@ -6,30 +6,34 @@
 
 This repository is a guide for amateurs pen testers and a collection of hacking tools, resources and references to practice ethical hacking, pen testing and web security. Most of these tools are UNIX compatible and MIT licensed. *Note that Linux is the best operating system to practice ethical hacking.*
 
-# Summary
+# Table of Contents
 
-* [Introduction](#introduction)
-    * [What is penetration testing ?](#what-is-penetration-testing-)
-    * [Want to become a penetration tester ?](#want-to-become-a-penetration-tester-)
-* [Some vocabulary](#some-vocabulary)
-* [Languages](#languages)
-* [Content Management Systems](#content-management-systems)
-* [Basic steps of pen testing](#basic-steps-of-pen-testing)
-* [Tools by category](#tools-by-category)
-    * [Information Gathering](#male_detective-information-gathering)
-    * [Password Attacks](#lock-password-attacks)
-    * [Wireless Testing](#globe_with_meridians-wireless-testing)
-    * [Exploitation Tools](#wrench-exploitation-tools)
-    * [Sniffing & Spoofing](#busts_in_silhouette-sniffing--spoofing)
-    * [Web Hacking](#rocket-web-hacking)
-    * [Post Exploitation](#tada-post-exploitation)
-    * [Frameworks](#package-frameworks)
-* [Additional resources](#additional-resources)
-    * [Books / Manuals](#books--manuals)
-    * [Discussions](#discussions)
-    * [Security Advisories](#security-advisories)
-    * [Challenges](#challenges)
-* [License](#license)
+- [Introduction](#introduction)
+  - [What is penetration testing ?](#what-is-penetration-testing-)
+  - [Want to become a penetration tester ?](#want-to-become-a-penetration-tester-)
+- [Some vocabulary](#some-vocabulary)
+- [Difference between hacking and ethical hacking](#difference-between-hacking-and-ethical-hacking)
+- [Languages](#languages)
+- [Content Management Systems](#content-management-systems)
+- [Basic steps of pen testing](#basic-steps-of-pen-testing)
+- [Tools by category](#tools-by-category)
+     - [:male_detective: Information Gathering](#male_detective-information-gathering)
+     - [:lock: Password Attacks](#lock-password-attacks)
+        - [:memo: Wordlists](#memo-wordlists)
+     - [:globe_with_meridians: Wireless Testing](#globe_with_meridians-wireless-testing)
+     - [:wrench: Exploitation Tools](#wrench-exploitation-tools)
+     - [:busts_in_silhouette: Sniffing & Spoofing](#busts_in_silhouette-sniffing--spoofing)
+     - [:rocket: Web Hacking](#rocket-web-hacking)
+     - [:tada: Post Exploitation](#tada-post-exploitation)
+     - [:package: Frameworks](#package-frameworks)
+- [Additional resources](#additional-resources)
+  - [Books / Manuals](#books--manuals)
+  - [Discussions](#discussions)
+  - [Security Advisories](#security-advisories)
+  - [Challenges](#challenges)
+- [License](#license)
+
+(TOC made with [nGitHubTOC](https://imthenachoman.github.io/nGitHubTOC/))
 
 # Introduction
 
@@ -47,7 +51,9 @@ This repository aim first to establish a reflection method on penetration testin
 
 Also, this is important to inform yourself about the law and what you are allowed to do or not. According to your country, the computer laws are not the same. First, check laws about privacy and surveillance : [Nine eyes countries](https://en.wikipedia.org/wiki/Five_Eyes#Other_international_cooperatives), [Five eyes](https://en.wikipedia.org/wiki/Five_Eyes) and Fourteen Eyes. Always check if what you're doing is legal. Even when it's not offensive, information gathering can also be illegal !
 
-## Some vocabulary
+([Table of Contents](#table-of-contents))
+
+# Some vocabulary
 
 **Infosec** : Information security, which is the practice of preventing unauthorized access, use, disclosure, disruption, modification, inspection, recording or destruction of information. The information or data may take any form, e.g. electronic or physical. An infosec can also be a person who practice ethical security. [Wikipedia](https://en.wikipedia.org/wiki/Information_security)
 
@@ -69,11 +75,15 @@ Also, this is important to inform yourself about the law and what you are allowe
 
 **Threat analyst** : A threat hunter, also called a cybersecurity threat analyst, is a security professional or managed service provider (MSP) that proactively uses manual or machine-assisted techniques to detect security incidents that may elude the grasp of automated systems. Threat hunters aim to uncover incidents that an enterprise would otherwise not find out about, providing chief information security officers (CISOs) and chief information officers (CIOs) with an additional line of defense against advanced persistent threats (APTs). [SearchCIO](https://searchcio.techtarget.com/definition/threat-hunter-cybersecurity-threat-analyst)
 
-### Difference between hacking and ethical hacking
+([Table of Contents](#table-of-contents))
+
+# Difference between hacking and ethical hacking
 
 A black hat is practicing penetration testing, but unlike a white hat, this is not ethical hacking. Ethical hacking is about find vulnerabilities and improve the security of a system. An ethical hacker is the ultimate security professional. Ethical hackers know how to find and exploit vulnerabilities and weaknesses in various systems, just like a malicious hacker (a black hat hacker). In fact, they both use the same skills; however, an ethical hacker uses those skills in a legitimate, lawful manner to try to find vulnerabilities and fix them before the bad guys can get there and try to break in. An ethical hacker is basically a white hat hacker.
 
-## Languages
+([Table of Contents](#table-of-contents))
+
+# Languages
 
 - Python
 - Ruby
@@ -84,20 +94,26 @@ A black hat is practicing penetration testing, but unlike a white hat, this is n
 - Java
 - Bash
 
-## Content Management Systems
+([Table of Contents](#table-of-contents))
+
+# Content Management Systems
 
 - Wordpress
 - Joomla
 - Drupal
 - SPIP
 
-## Basic steps of pen testing
+([Table of Contents](#table-of-contents))
+
+# Basic steps of pen testing
 
 <p align="center">
     <img src="https://www.tutorialspoint.com/penetration_testing/images/penetration_testing_method.jpg">
 </p>
 
-## Tools by category
+([Table of Contents](#table-of-contents))
+
+# Tools by category
 
 #### :male_detective: Information Gathering
 
@@ -275,6 +291,10 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - [Overthewire](http://overthewire.org/wargames/)
 - [Ctftime](https://ctftime.org/)
 
+([Table of Contents](#table-of-contents))
+
 # License
 
 This repository is under MIT license.
+
+([Table of Contents](#table-of-contents))
