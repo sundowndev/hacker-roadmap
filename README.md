@@ -1,10 +1,19 @@
 <p align="center">
     <img src="https://i.imgur.com/VeEYEkT.png" alt="Hacker roadmap" /><br>
-    <img src="https://img.shields.io/github/issues/Sundowndev/hacker-roadmap.svg" alt="GitHub issues">
-    <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg" alt="license">
 </p>
 
-This repository is a guide for amateurs pen testers and a collection of hacking tools, resources and references to practice ethical hacking, pen testing and web security. Most of these tools are UNIX compatible and MIT licensed. *Note that Linux is the best operating system to practice ethical hacking.*
+----
+
+This repository is a guide for amateurs pen testers and a collection of hacking tools, resources and references to practice ethical hacking, pen testing and web security. Most of these tools are UNIX compatible, free and open source. Consider this guide as an overview of how to learn penetration testing.
+
+### Before you start
+
+- If you're new to ethical hacking, forget everything you know about hacking.
+- Don't start using tools without reading about pen testing and how it works (see [Additional resources](#additional-resources) section).
+- Don't download and use tools that you don't audited the code.
+- Don't use these tools to do stupid things like investigating/hacking without consent on your friends, or worst, your recruiter.
+- Read books, manuals, articles, be curious and not just a [scritpt kiddie](https://www.wikihow.com/Avoid-Becoming-a-Script-Kiddie).
+- I wish you don't use these tools for illegal purposes, but if you do, I sure hope you know what you do.
 
 # Table of Contents
 
