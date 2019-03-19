@@ -4,11 +4,11 @@
 
 ----
 
-This repository is a guide for amateurs pen testers and a collection of hacking tools, resources and references to practice ethical hacking, pen testing and web security. Most of these tools are UNIX compatible, free and open source. Consider this guide as an overview of how to learn penetration testing.
+This repository is a overview of what you need to learn penetration testing and a collection of hacking tools, resources and references to practice ethical hacking. Most of the tools are UNIX compatible, free and open source.
 
-### Before you start
+## Before you start
 
-- If you're new to ethical hacking, forget everything you know about hacking.
+- If you're new to information security, forget everything you know about hacking.
 - Don't start using tools without reading about pen testing and how it works (see [Additional resources](#additional-resources) section).
 - Don't download and use tools that you don't audited the code.
 - Don't use these tools to do stupid things like investigating/hacking without consent on your friends, or worst, your recruiter.
