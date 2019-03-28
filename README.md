@@ -236,6 +236,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 | [hate_crack](https://github.com/trustedsec/hate_crack)     | **Python** | `Linux/macOS` | A tool for automating cracking methodologies through Hashcat. |
 | [Wifiphisher](https://github.com/wifiphisher/wifiphisher)      | **Python** | `Linux` | The Rogue Access Point Framework. |
 | [Kickthemout](https://github.com/k4m4/kickthemout)      | **Python** | `Linux/macOS` | Kick devices off your network by performing an ARP Spoof attack. |
+| [Beef](https://github.com/beefproject/beef)      | **Javascript** | `Linux/Windows/macOS` | The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser. |
 
 ([Table of Contents](#table-of-contents))
 
