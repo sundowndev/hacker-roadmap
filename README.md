@@ -270,6 +270,8 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 
 **Warning :** I haven't read them all so do not consider I am recommanding as I liked them. They just seems to provide useful resources.
 
+- [Penetration Testing: A Hands-On Introduction to Hacking](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641)
+- [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws](https://www.amazon.com/The-Web-Application-Hackers-Handbook/dp/1118026470)
 - [Kali Linux Revealed](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf)
 - [Blue Team Field Manual (BTFM)](https://www.amazon.com/Blue-Team-Field-Manual-BTFM/dp/154101636X)
 - [Cybersecurity - Attack and Defense Strategies](https://www.amazon.com/Cybersecurity-Defense-Strategies-Infrastructure-security/dp/1788475291)
