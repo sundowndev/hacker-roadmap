@@ -263,7 +263,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 
 ## Books / Manuals
 
-**Warning :** I haven't read them all so do not consider I am recommanding as I liked them. They just seems to provide useful resources.
+**Warning :** I haven't read them all so do not consider I am recommanding as I liked them. They just seem to provide useful resources.
 
 - [Penetration Testing: A Hands-On Introduction to Hacking](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641) (2014)
 - [Kali Linux Revealed](https://www.amazon.com/Kali-Linux-Revealed-Penetration-Distribution/dp/0997615605) - [PDF](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf) (2017)
