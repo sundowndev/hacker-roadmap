@@ -10,7 +10,7 @@ This repository is an overview of what you need to learn penetration testing and
 
 - If you're new to information security, forget everything you know about hacking.
 - Don't start using tools without reading about pen testing and how it works (see [Additional resources](#additional-resources) section).
-- Don't download and use tools where you haven't audited the code.
+- Don't download or use tools you haven't audited the code.
 - Don't use these tools to do stupid things like investigating/hacking without consent on your friends, or worst, your recruiter.
 - Read books, manuals, articles, be curious and not just a [scritpt kiddie](https://www.wikihow.com/Avoid-Becoming-a-Script-Kiddie).
 - I wish you don't use these tools for illegal purposes, but if you do, I sure hope you know what you're doing.
@@ -18,23 +18,23 @@ This repository is an overview of what you need to learn penetration testing and
 # Table of Contents
 
 - [Introduction](#introduction)
-  - [What is penetration testing ?](#what-is-penetration-testing-)
-  - [Want to become a penetration tester ?](#want-to-become-a-penetration-tester-)
+  - [What is penetration testing?](#what-is-penetration-testing)
+  - [Want to become a penetration tester?](#want-to-become-a-penetration-tester)
 - [Some vocabulary](#some-vocabulary)
 - [Difference between hacking and ethical hacking](#difference-between-hacking-and-ethical-hacking)
 - [Languages](#languages)
 - [Content Management Systems](#content-management-systems)
 - [Basic steps of pen testing](#basic-steps-of-pen-testing)
 - [Tools by category](#tools-by-category)
-     - [:male_detective: Information Gathering](#male_detective-information-gathering)
-     - [:lock: Password Attacks](#lock-password-attacks)
-        - [:memo: Wordlists](#memo-wordlists)
-     - [:globe_with_meridians: Wireless Testing](#globe_with_meridians-wireless-testing)
-     - [:wrench: Exploitation Tools](#wrench-exploitation-tools)
-     - [:busts_in_silhouette: Sniffing & Spoofing](#busts_in_silhouette-sniffing--spoofing)
-     - [:rocket: Web Hacking](#rocket-web-hacking)
-     - [:tada: Post Exploitation](#tada-post-exploitation)
-     - [:package: Frameworks](#package-frameworks)
+  - [:male_detective: Information Gathering](#male_detective-information-gathering)
+  - [:lock: Password Attacks](#lock-password-attacks)
+    - [:memo: Wordlists](#memo-wordlists)
+  - [:globe_with_meridians: Wireless Testing](#globe_with_meridians-wireless-testing)
+  - [:wrench: Exploitation Tools](#wrench-exploitation-tools)
+  - [:busts_in_silhouette: Sniffing & Spoofing](#busts_in_silhouette-sniffing--spoofing)
+  - [:rocket: Web Hacking](#rocket-web-hacking)
+  - [:tada: Post Exploitation](#tada-post-exploitation)
+  - [:package: Frameworks](#package-frameworks)
 - [Additional resources](#additional-resources)
   - [Books / Manuals](#books--manuals)
   - [Discussions](#discussions)
