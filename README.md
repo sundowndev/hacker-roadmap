@@ -14,6 +14,7 @@ This repository is an overview of what you need to learn penetration testing and
 - Don't use these tools to do stupid things like investigating/hacking without consent on your friends, or worst, your recruiter.
 - Read books, manuals, articles, be curious and not just a [scritpt kiddie](https://www.wikihow.com/Avoid-Becoming-a-Script-Kiddie).
 - I wish you don't use these tools for illegal purposes, but if you do, I sure hope you know what you're doing.
+- Practice using [challenges](#challenges), not real targets !
 
 # Table of Contents
 
