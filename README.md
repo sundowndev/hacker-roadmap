@@ -240,6 +240,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 | [Wifiphisher](https://github.com/wifiphisher/wifiphisher)      | **Python** | `Linux` | The Rogue Access Point Framework. |
 | [Kickthemout](https://github.com/k4m4/kickthemout)      | **Python** | `Linux/macOS` | Kick devices off your network by performing an ARP Spoof attack. |
 | [Beef](https://github.com/beefproject/beef)      | **Javascript** | `Linux/Windows/macOS` | The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser. |
+| [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF)      | **Python** | `Linux/Windows/macOS` | Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis. |
 
 ([Table of Contents](#table-of-contents))
 
