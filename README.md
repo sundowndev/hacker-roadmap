@@ -95,22 +95,26 @@ A black hat is practicing penetration testing, but unlike a white hat, this is n
 
 Learning programming is the very first way to start learning about security. There's a lot of languages, most people start with Python, it's the easiest and the most popular one. PHP and Go are the less popular to write security-related stuff, but any of these can still be used in such context. Bash and Powershell are mostly about scripting and writing simple CLI applications.
 
-As every language does not work the same way each other, you should take a look at how they work and what you should pick to learn. For example, Golang and Java compiles, PHP and Python does not, they're interpreted languages. This definitly changes what you should use them for. Each language also has its own design patterns.
+As every language does not work the same way each other, you should take a look at how they work and what you should pick to learn. For example, C++ and Java compiles, PHP and Python does not, they're interpreted languages. This definitly changes what you should use them for. Each language also has its own design patterns.
 
 ### Scripting
 
 - Bash
 - Powershell
-- C / C++ / C#
 - Perl
+
+### Softwares & mobile apps
+
 - Java
+- Swift
+- C / C++ / C#
 
 ### Web applications
 
 - PHP
 - Go
 
-### Hybrid
+### General purpose
 
 - Python
 - Ruby
@@ -238,7 +242,7 @@ Exploits for after you have already gained access.
 
 | Tool        | Language           | Support  | Description    |
 | ----------- |-------------------------|----------|----------------|
-| [TheFatRat](https://github.com/Screetsec/TheFatRat)      | **Java** | `Linux/Windows/macOS` | Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack, dll. |
+| [TheFatRat](https://github.com/Screetsec/TheFatRat)      | **C** | `Linux/Windows/macOS` | Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack, dll. |
 | [Microsploit](https://github.com/Screetsec/Microsploit)      | **Shell** | `Linux/Windows/macOS` | Fast and easy create backdoor office exploitation using module metasploit packet , Microsoft Office , Open Office , Macro attack , Buffer Overflow. |
 
 #### :package: Frameworks
