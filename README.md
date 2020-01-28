@@ -2,8 +2,6 @@
     <img src="https://i.imgur.com/VeEYEkT.png" alt="Hacker roadmap" /><br>
 </p>
 
-----
-
 This repository is an overview of what you need to learn penetration testing and a collection of hacking tools, resources and references to practice ethical hacking. Most of the tools are UNIX compatible, free and open source.
 
 ## Before you start
@@ -95,14 +93,27 @@ A black hat is practicing penetration testing, but unlike a white hat, this is n
 
 # Languages
 
-- Python
-- Ruby
+Learning programming is the very first way to start learning about security. There's a lot of languages, most people start with Python, it's the easiest and the most popular one. PHP and Go are the less popular to write security-related stuff, but any of these can still be used in such context. Bash and Powershell are mostly about scripting and writing simple CLI applications.
+
+As every language does not work the same way each other, you should take a look at how they work and what you should pick to learn. For example, Golang and Java compiles, PHP and Python does not, they're interpreted languages. This definitly changes what you should use them for. Each language also has its own design patterns.
+
+### Scripting
+
+- Bash
+- Powershell
 - C / C++ / C#
 - Perl
+- Java
+
+### Web applications
+
 - PHP
 - Go
-- Java
-- Bash
+
+### Hybrid
+
+- Python
+- Ruby
 
 ([Table of Contents](#table-of-contents))
 
@@ -130,6 +141,8 @@ These are the most used Content Management Systems (CMS). See a complete list [h
 ([Table of Contents](#table-of-contents))
 
 # Tools by category
+
+A more complete list of tools can be found on [Kali Linux official website](https://tools.kali.org/tools-listing).
 
 #### :male_detective: Information Gathering
 
@@ -245,6 +258,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 | [Kickthemout](https://github.com/k4m4/kickthemout)      | **Python** | `Linux/macOS` | Kick devices off your network by performing an ARP Spoof attack. |
 | [Beef](https://github.com/beefproject/beef)      | **Javascript** | `Linux/Windows/macOS` | The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser. |
 | [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF)      | **Python** | `Linux/Windows/macOS` | Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis. |
+| [Burp Suite](https://portswigger.net/burp)      | **C++** | `Linux/Windows/macOS` | Burp Suite is a leading range of cybersecurity tools, brought to you by PortSwigger. We believe in giving our users a competitive advantage through superior research. **This tool is not free and open source** |
 
 ([Table of Contents](#table-of-contents))
 
@@ -284,6 +298,9 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - [Reddit/hacking](https://www.reddit.com/r/hacking) Discuss about hacking and web security.
 - [ax0nes](https://ax0nes.com/) Hacking, security, and software development forum.
 - [0Day.rocks on discord](https://discord.gg/WmYzJfD) Discord server about the 0day.rocks blog for technical and general InfoSec/Cyber discussions & latest news.
+- [Reddit/AskNetsec](https://www.reddit.com/r/AskNetsec/) Discuss about network security, ask professionals for advices about jobs and stuff.
+
+https://www.reddit.com/r/AskNetsec/
 
 ## Security Advisories
 
