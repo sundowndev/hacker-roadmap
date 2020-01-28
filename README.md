@@ -12,7 +12,7 @@ This repository is an overview of what you need to learn penetration testing and
 - Don't start using tools without reading about pen testing and how it works (see [Additional resources](#additional-resources) section).
 - Don't download or use tools you haven't audited the code.
 - Don't use these tools to do stupid things like investigating/hacking without consent on your friends, or worst, your recruiter.
-- Read books, manuals, articles, be curious and not just a [scritpt kiddie](https://www.wikihow.com/Avoid-Becoming-a-Script-Kiddie).
+- Read books, manuals, articles, be curious and not just a [script kiddie](https://www.wikihow.com/Avoid-Becoming-a-Script-Kiddie).
 - I wish you don't use these tools for illegal purposes, but if you do, I sure hope you know what you're doing.
 - Practice using [challenges](#challenges), not real targets !
 
@@ -269,7 +269,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 
 ## Books / Manuals
 
-**Warning :** I haven't read them all so do not consider I am recommanding as I liked them. They just seem to provide useful resources.
+**Warning :** I haven't read them all so do not consider I am recommending as I liked them. They just seem to provide useful resources.
 
 - [Penetration Testing: A Hands-On Introduction to Hacking](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641) (2014)
 - [Kali Linux Revealed](https://www.amazon.com/Kali-Linux-Revealed-Penetration-Distribution/dp/0997615605) - [PDF](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf) (2017)
