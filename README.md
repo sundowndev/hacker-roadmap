@@ -95,7 +95,7 @@ A black hat is practicing penetration testing, but unlike a white hat, this is n
 
 Learning programming is the very first way to start learning about security. There's a lot of languages, most people start with Python, it's the easiest and the most popular one. PHP and Go are the less popular to write security-related stuff, but any of these can still be used in such context. Bash and Powershell are mostly about scripting and writing simple CLI applications.
 
-As every language does not work the same way each other, you should take a look at how they work and what you should pick to learn. For example, C++ and Java compiles, PHP and Python does not, they're interpreted languages. This definitly changes what you should use them for. Each language also has its own design patterns.
+Since not all languages work the same way, you need to look at how they work and what you want to learn. For example, C++ and Java compile, PHP and Python do not, they are interpreted languages. This definitely changes what you should use them for. Each language also has its own design patterns.
 
 ### Scripting
 
