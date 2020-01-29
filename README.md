@@ -101,7 +101,6 @@ Since not all languages work the same way, you need to look at how they work and
 
 - Bash
 - Powershell
-- Perl
 
 ### Softwares & mobile apps
 
@@ -109,15 +108,13 @@ Since not all languages work the same way, you need to look at how they work and
 - Swift
 - C / C++ / C#
 
-### Web applications
-
-- PHP
-- Go
-
 ### General purpose
 
 - Python
 - Ruby
+- Perl
+- PHP
+- Go
 
 ([Table of Contents](#table-of-contents))
 
