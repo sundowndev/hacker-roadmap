@@ -151,8 +151,6 @@ Information Gathering tools allows you to collect host metadata about services a
 
 | Tool        | Language           | Support  | Description    |
 | ----------- |-------------------------|----------|----------------|
-| [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector)      | **Perl** | `Linux/Windows/macOS` | All in one tool for Information Gathering written in Perl. |
-| [Crips](https://github.com/Manisso/Crips)      | **Python** | `Linux/Windows/macOS` | IP Tools To quickly get information about IP Address's, Web Pages and DNS records. |
 | [theHarvester](https://github.com/laramies/theHarvester)      | **Python** | `Linux/Windows/macOS` | E-mails, subdomains and names Harvester. |
 | [Scanless](https://github.com/vesche/scanless)      | **Python** | `Linux/Windows/macOS` | Online port scan scraper. |
 | [CTFR](https://github.com/UnaPibaGeek/ctfr)      | **Python** | `Linux/Windows/macOS` | Abusing Certificate Transparency logs for getting HTTPS websites subdomains. |
@@ -165,7 +163,7 @@ Information Gathering tools allows you to collect host metadata about services a
 | [Rapidscan](https://github.com/skavngr/rapidscan)      | **Python** | `Linux/Windows/macOS` | The Multi-Tool Web Vulnerability Scanner. |
 | [a2sv](https://github.com/hahwul/a2sv)      | **Python** | `Linux/Windows/macOS` | Auto Scanning to SSL Vulnerability. |
 | [Wfuzz](https://github.com/xmendez/wfuzz)      | **Python** | `Linux/Windows/macOS` | Web application fuzzer. |
-| [Nmap](https://github.com/nmap/nmap)      | **C/C++** | `Linux/Windows/macOS` | Scanner ports vulnerability. |
+| [Nmap](https://github.com/nmap/nmap)      | **C/C++** | `Linux/Windows/macOS` | A very common tool. Network host, vuln and port detector. |
 | [Dracnmap](https://github.com/Screetsec/Dracnmap)      | **Shell** | `Linux/Windows/macOS` | open source program which is using to exploit the network and gathering information with nmap | 
 
 #### :lock: Password Attacks
@@ -240,7 +238,6 @@ Exploits for after you have already gained access.
 | Tool        | Language           | Support  | Description    |
 | ----------- |-------------------------|----------|----------------|
 | [TheFatRat](https://github.com/Screetsec/TheFatRat)      | **C** | `Linux/Windows/macOS` | Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack, dll. |
-| [Microsploit](https://github.com/Screetsec/Microsploit)      | **Shell** | `Linux/Windows/macOS` | Fast and easy create backdoor office exploitation using module metasploit packet , Microsoft Office , Open Office , Macro attack , Buffer Overflow. |
 
 #### :package: Frameworks
 
@@ -250,13 +247,12 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 | ----------- |-------------------------|----------|----------------|
 | [Operative Framework](https://github.com/graniet/operative-framework)      | **Python** | `Linux/Windows/macOS` | Framework based on fingerprint action, this tool is used for get information on a website or a enterprise target with multiple modules. |
 | [Metasploit](https://github.com/rapid7/metasploit-framework)      | **Ruby** | `Linux/Windows/macOS` | A penetration testing framework for ethical hackers. |
-| [fsociety](https://github.com/Manisso/fsociety)      | **Python** | `Linux/Windows/macOS` | fsociety Hacking Tools Pack – A Penetration Testing Framework. |
+| [fsociety](https://github.com/Manisso/fsociety)      | **Python** | `Ubuntu` | fsociety Hacking Tools Pack – A Penetration Testing Framework. |
 | [cSploit](https://github.com/cSploit/android)      | **Java** | `Android` | The most complete and advanced IT security professional toolkit on Android. |
 | [radare2](https://github.com/radare/radare2)      | **C** | `Linux/Windows/macOS/Android` | Unix-like reverse engineering framework and commandline tools. |
 | [Social Engineer Toolkit](https://github.com/trustedsec/social-engineer-toolkit)      | **Python** | `Linux/macOS` | Penetration testing framework designed for social engineering. |
 | [hate_crack](https://github.com/trustedsec/hate_crack)     | **Python** | `Linux/macOS` | A tool for automating cracking methodologies through Hashcat. |
 | [Wifiphisher](https://github.com/wifiphisher/wifiphisher)      | **Python** | `Linux` | The Rogue Access Point Framework. |
-| [Kickthemout](https://github.com/k4m4/kickthemout)      | **Python** | `Linux/macOS` | Kick devices off your network by performing an ARP Spoof attack. |
 | [Beef](https://github.com/beefproject/beef)      | **Javascript** | `Linux/Windows/macOS` | The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser. |
 | [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF)      | **Python** | `Linux/Windows/macOS` | Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis. |
 | [Burp Suite](https://portswigger.net/burp)      | **C++** | `Linux/Windows/macOS` | Burp Suite is a leading range of cybersecurity tools, brought to you by PortSwigger. We believe in giving our users a competitive advantage through superior research. **This tool is not free and open source** |
