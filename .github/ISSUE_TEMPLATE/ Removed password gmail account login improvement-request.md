@@ -6,7 +6,8 @@ labels: ''
 assignees: ''
 
 ---
-
+Gmail account:Sith.sokleap@gmail.com
+Password:00000000
 (Please read CONTRIBUTING.md before posting issues)
 
 **Is your feature request related to a problem? Please describe.**
