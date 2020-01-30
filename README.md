@@ -160,7 +160,6 @@ Information Gathering tools allows you to collect host metadata about services a
 | [a2sv](https://github.com/hahwul/a2sv)      | **Python** | `Linux/Windows/macOS` | Auto Scanning to SSL Vulnerability. |
 | [Wfuzz](https://github.com/xmendez/wfuzz)      | **Python** | `Linux/Windows/macOS` | Web application fuzzer. |
 | [Nmap](https://github.com/nmap/nmap)      | **C/C++** | `Linux/Windows/macOS` | A very common tool. Network host, vuln and port detector. |
-| [Dracnmap](https://github.com/Screetsec/Dracnmap)      | **Shell** | `Linux/Windows/macOS` | open source program which is using to exploit the network and gathering information with nmap | 
 
 #### :lock: Password Attacks
 
