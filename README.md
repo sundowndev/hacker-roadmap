@@ -152,7 +152,6 @@ Information Gathering tools allows you to collect host metadata about services a
 | Tool        | Language           | Support  | Description    |
 | ----------- |-------------------------|----------|----------------|
 | [theHarvester](https://github.com/laramies/theHarvester)      | **Python** | `Linux/Windows/macOS` | E-mails, subdomains and names Harvester. |
-| [Scanless](https://github.com/vesche/scanless)      | **Python** | `Linux/Windows/macOS` | Online port scan scraper. |
 | [CTFR](https://github.com/UnaPibaGeek/ctfr)      | **Python** | `Linux/Windows/macOS` | Abusing Certificate Transparency logs for getting HTTPS websites subdomains. |
 | [Sn1per](https://github.com/1N3/Sn1per)      | **bash** | `Linux/macOS` | Automated Pentest Recon Scanner. |
 | [ReconDog](https://github.com/s0md3v/ReconDog)      | **Python** | `Linux/Windows/macOS` | Recon Dog is an all in one tool for all your basic information gathering needs. |
@@ -160,7 +159,6 @@ Information Gathering tools allows you to collect host metadata about services a
 | [Infoga](https://github.com/m4ll0k/Infoga)      | **Python** | `Linux/Windows/macOS` | Email Information Gathering. |
 | [KnockMail](https://github.com/4w4k3/KnockMail)      | **Python** | `Linux/Windows/macOS` | Check if email address exists. |
 | [Photon](https://github.com/s0md3v/Photon)      | **Python** | `Linux/Windows/macOS` | Crawler which is incredibly fast and extracts urls, emails, files, website accounts and much more. |
-| [Rapidscan](https://github.com/skavngr/rapidscan)      | **Python** | `Linux/Windows/macOS` | The Multi-Tool Web Vulnerability Scanner. |
 | [a2sv](https://github.com/hahwul/a2sv)      | **Python** | `Linux/Windows/macOS` | Auto Scanning to SSL Vulnerability. |
 | [Wfuzz](https://github.com/xmendez/wfuzz)      | **Python** | `Linux/Windows/macOS` | Web application fuzzer. |
 | [Nmap](https://github.com/nmap/nmap)      | **C/C++** | `Linux/Windows/macOS` | A very common tool. Network host, vuln and port detector. |
@@ -228,7 +226,6 @@ Exploit popular CMSs that are hosted online.
 | [Droopescan](https://github.com/droope/droopescan)      | **Python** | `Linux/Windows/macOS` | A plugin-based scanner to identify issues with several CMSs, mainly Drupal & Silverstripe. |
 | [Joomscan](https://github.com/rezasp/joomscan)      | **Perl** | `Linux/Windows/macOS` | Joomla Vulnerability Scanner. |
 | [Drupwn](https://github.com/immunIT/drupwn)      | **Python** | `Linux/Windows/macOS` | Drupal Security Scanner to perform enumerations on Drupal-based web applications. |
-| [Webpwn3r](https://github.com/zigoo0/webpwn3r)      | **Python** | `Linux/Windows/macOS` | Web Applications Security Scanner. |
 | [CMSeek](https://github.com/Tuhinshubhra/CMSeek)      | **Python** | `Linux/Windows/macOS` | CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and 130 other CMSs. |
 
 #### :tada: Post Exploitation
@@ -247,11 +244,8 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 | ----------- |-------------------------|----------|----------------|
 | [Operative Framework](https://github.com/graniet/operative-framework)      | **Python** | `Linux/Windows/macOS` | Framework based on fingerprint action, this tool is used for get information on a website or a enterprise target with multiple modules. |
 | [Metasploit](https://github.com/rapid7/metasploit-framework)      | **Ruby** | `Linux/Windows/macOS` | A penetration testing framework for ethical hackers. |
-| [fsociety](https://github.com/Manisso/fsociety)      | **Python** | `Ubuntu` | fsociety Hacking Tools Pack – A Penetration Testing Framework. |
 | [cSploit](https://github.com/cSploit/android)      | **Java** | `Android` | The most complete and advanced IT security professional toolkit on Android. |
 | [radare2](https://github.com/radare/radare2)      | **C** | `Linux/Windows/macOS/Android` | Unix-like reverse engineering framework and commandline tools. |
-| [Social Engineer Toolkit](https://github.com/trustedsec/social-engineer-toolkit)      | **Python** | `Linux/macOS` | Penetration testing framework designed for social engineering. |
-| [hate_crack](https://github.com/trustedsec/hate_crack)     | **Python** | `Linux/macOS` | A tool for automating cracking methodologies through Hashcat. |
 | [Wifiphisher](https://github.com/wifiphisher/wifiphisher)      | **Python** | `Linux` | The Rogue Access Point Framework. |
 | [Beef](https://github.com/beefproject/beef)      | **Javascript** | `Linux/Windows/macOS` | The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser. |
 | [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF)      | **Python** | `Linux/Windows/macOS` | Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis. |
