@@ -288,8 +288,6 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - [0Day.rocks on discord](https://discord.gg/WmYzJfD) Discord server about the 0day.rocks blog for technical and general InfoSec/Cyber discussions & latest news.
 - [Reddit/AskNetsec](https://www.reddit.com/r/AskNetsec/) Discuss about network security, ask professionals for advices about jobs and stuff.
 
-https://www.reddit.com/r/AskNetsec/
-
 ## Security Advisories
 
 - [CVE](http://cve.mitre.org/)
