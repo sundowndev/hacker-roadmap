@@ -180,7 +180,7 @@ Crack passwords and create wordlists.
 
 | Tool        | Description    |
 | ----------- |----------------|
-| [Probable Worlist](https://github.com/berzerk0/Probable-Wordlists)      | Wordlists sorted by probability originally created for password generation and testing. |
+| [Probable Wordlist](https://github.com/berzerk0/Probable-Wordlists)      | Wordlists sorted by probability originally created for password generation and testing. |
 
 #### :globe_with_meridians: Wireless Testing
 
