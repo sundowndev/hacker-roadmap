@@ -301,7 +301,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - [Itsecgames](http://www.itsecgames.com/) - bWAPP or buggy web app is a deliberately insecure web application.
 - [Dvwa](http://www.dvwa.co.uk/) - Damn Vulnerable Web Application is another deliberately insecure web application to practice your skills on.
 - [Hackthissite](https://www.hackthissite.org/) - A site which provides challenges, CTFs, and more to improve your hacking skills.
-- [Hackthis](https://www.hackthis.co.uk/)
+- [Defend the Web](https://defendtheweb.net/) - Defend the Web is an interactive security platform where you can learn and challenge your skills.
 - [Root-me](https://www.root-me.org/) - Another website which hosts challenges to test your hacking skills.
 - [HackTheBox](https://www.hackthebox.eu/) - An online platform to test and advance your skills in penetration testing and cyber security.
 - [Overthewire](http://overthewire.org/wargames/) - Larn and practice security concepts in the form of fun-filled games.
