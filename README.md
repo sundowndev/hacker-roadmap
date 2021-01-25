@@ -297,15 +297,15 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 
 ## Challenges
 
-- [Vulnhub](https://www.vulnhub.com/) - Has a lot of VMs to play with. some are beginner friendly, some aren't.
-- [Itsecgames](http://www.itsecgames.com/) - buggy web app
-- [Dvwa](http://www.dvwa.co.uk/) - Damn Vulnerable Web Application
-- [Hackthissite](https://www.hackthissite.org/)
+- [Vulnhub](https://www.vulnhub.com/) - Has a lot of VMs to play with. Some are beginner friendly, some aren't.
+- [Itsecgames](http://www.itsecgames.com/) - bWAPP or buggy web app is a deliberately insecure web application.
+- [Dvwa](http://www.dvwa.co.uk/) - Damn Vulnerable Web Application is another deliberately insecure web application to practice your skills on.
+- [Hackthissite](https://www.hackthissite.org/) - A site which provides challenges, CTFs, and more to improve your hacking skills.
 - [Hackthis](https://www.hackthis.co.uk/)
-- [Root-me](https://www.root-me.org/)
-- [HackTheBox](https://www.hackthebox.eu/)
-- [Overthewire](http://overthewire.org/wargames/)
-- [Ctftime](https://ctftime.org/)
+- [Root-me](https://www.root-me.org/) - Another website which hosts challenges to test your hacking skills.
+- [HackTheBox](https://www.hackthebox.eu/) - An online platform to test and advance your skills in penetration testing and cyber security.
+- [Overthewire](http://overthewire.org/wargames/) - Larn and practice security concepts in the form of fun-filled games.
+- [Ctftime](https://ctftime.org/) - The de facto website for everything CTF related. 
 
 ([Table of Contents](#table-of-contents))
 
