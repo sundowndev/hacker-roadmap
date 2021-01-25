@@ -306,6 +306,8 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - [HackTheBox](https://www.hackthebox.eu/) - An online platform to test and advance your skills in penetration testing and cyber security.
 - [Overthewire](http://overthewire.org/wargames/) - Larn and practice security concepts in the form of fun-filled games.
 - [Ctftime](https://ctftime.org/) - The de facto website for everything CTF related. 
+- [TryHackMe](https://tryhackme.com/) - TryHackMe is a free online platform for learning cyber security, using hands-on exercises and labs, all through your browser!
+- [PicoCTF](https://picoctf.org/) - Provides you with fun CTF challenges of varying levels of difficulty to practice on.
 
 ([Table of Contents](#table-of-contents))
 
