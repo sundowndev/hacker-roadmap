@@ -198,11 +198,12 @@ Used for intrusion detection and wifi attacks.
 
 Acesss systems and data with service-oriented exploits.
 
-| Tool        | Language           | Support  | Description    |
-| ----------- |-------------------------|----------|----------------|
-| [SQLmap](https://github.com/sqlmapproject/sqlmap)      | **Python** | `Linux/Windows/macOS` | Automatic SQL injection and database takeover tool. |
-| [XSStrike](https://github.com/UltimateHackers/XSStrike)      | **Python** | `Linux/Windows/macOS` | Advanced XSS detection and exploitation suite. |
-| [Commix](https://github.com/commixproject/commix)      | **Python** | `Linux/Windows/macOS` | Automated All-in-One OS command injection and exploitation tool.￼ |
+| Tool                                                    | Language   | Support               | Description                                                  |
+| ------------------------------------------------------- | ---------- | --------------------- | ------------------------------------------------------------ |
+| [SQLmap](https://github.com/sqlmapproject/sqlmap)       | **Python** | `Linux/Windows/macOS` | Automatic SQL injection and database takeover tool.          |
+| [XSStrike](https://github.com/UltimateHackers/XSStrike) | **Python** | `Linux/Windows/macOS` | Advanced XSS detection and exploitation suite.               |
+| [Commix](https://github.com/commixproject/commix)       | **Python** | `Linux/Windows/macOS` | Automated All-in-One OS command injection and exploitation tool.￼ |
+| [Nuclei](https://github.com/projectdiscovery/nuclei)    | **Go**     | `Linux/Windows/macOS` | Fast and customisable vulnerability scanner based on simple YAML based DSL. |
 
 #### :busts_in_silhouette: Sniffing & Spoofing
 
