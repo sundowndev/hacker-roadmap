@@ -1,11 +1,11 @@
 <div style="text-align:center">
-  <img src="img/hacker-roadmap.jpeg" alt="Hacker Roadmap" />
+  <img src="https://i.imgur.com/VeEYEkT.png" alt="Hacker Roadmap" />
 </div>
 <br>
 
-This repository is an overview of what you need to learn in penetration testing and a collection of hacking tools, resources and references to practice ethical hacking. Most of the tools are UNIX compatible, free and open source.
+  This repository is an overview of what you need to learn penetration testing and a collection of hacking tools, resources and references to practice ethical hacking. Most of the tools are UNIX compatible, free and open source.
 
-## Before you start
+  ## Before you start
 
 - If you're new to information security, forget everything you know about hacking.
 - Don't start using tools without reading about pen testing and how it works (see [Additional resources](#additional-resources) section).
@@ -299,7 +299,6 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - [CVE](http://cve.mitre.org/)
 - [CWE](http://cwe.mitre.org/)
 - [NVD](http://web.nvd.nist.gov/)
-
 
 ## Challenges
 
