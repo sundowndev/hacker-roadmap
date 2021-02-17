@@ -273,6 +273,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - [How to Avoid Becoming a Script Kiddie](https://www.wikihow.com/Avoid-Becoming-a-Script-Kiddie)
 - [2017 Top 10 Application Security Risks](https://www.owasp.org/index.php/Top_10-2017_Top_10)
 - [Starting in cybersecurity ?](https://blog.0day.rocks/starting-in-cybersecurity-5b02d827fb54)
+- [Recommended Machines](https://emaragkos.gr/recommended-machines/)
 
 ## Books / Manuals
 
@@ -302,7 +303,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 
 ## Challenges
 
-- [Vulnhub](https://www.vulnhub.com/) - Has a lot of VMs to play with. Some are beginner friendly, some aren't. Visit [Here](https://emaragkos.gr/recommended-machines/) for details.
+- [Vulnhub](https://www.vulnhub.com/) - Has a lot of VMs to play with. Some are beginner friendly, some aren't.
 - [Itsecgames](http://www.itsecgames.com/) - bWAPP or buggy web app is a deliberately insecure web application.
 - [Dvwa](http://www.dvwa.co.uk/) - Damn Vulnerable Web Application is another deliberately insecure web application to practice your skills on.
 - [Hackthissite](https://www.hackthissite.org/) - A site which provides challenges, CTFs, and more to improve your hacking skills.
