@@ -2,4 +2,4 @@
 
 **Related Content :** Guide|Tools
 
-*Explain your changes here. Please read CONTRIBUTE.md before creating pull requests.*
+*Explain your changes here. Please read [CONTRIBUTE.md](CONTRIBUTE.md) before creating pull requests.*
