@@ -3,9 +3,9 @@
 </div>
 <br>
 
-  This repository is an overview of what you need to learn penetration testing and a collection of hacking tools, resources and references to practice ethical hacking. Most of the tools are UNIX compatible, free and open source.
+This repository is an overview of what you need to learn penetration testing and a collection of hacking tools, resources and references to practice ethical hacking. Most of the tools are UNIX compatible, free and open source.
 
-  ## Before you start
+## Before you start
 
 - If you're new to information security, forget everything you know about hacking.
 - Don't start using tools without reading about pen testing and how it works (see [Additional resources](#additional-resources) section).
