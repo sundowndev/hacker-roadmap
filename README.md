@@ -1,8 +1,8 @@
-<p align="center">
-    <img src="https://i.imgur.com/VeEYEkT.png" alt="Hacker roadmap" /><br>
-</p>
+<div style="text-align:center">
+  <img src="img/hacker-roadmap.jpeg" alt="Hacker Roadmap" />
+</div>
 
-This repository is an overview of what you need to learn penetration testing and a collection of hacking tools, resources and references to practice ethical hacking. Most of the tools are UNIX compatible, free and open source.
+This repository is an overview of what you need to learn in penetration testing and a collection of hacking tools, resources and references to practice ethical hacking. Most of the tools are UNIX compatible, free and open source.
 
 ## Before you start
 
@@ -181,6 +181,7 @@ Crack passwords and create wordlists.
 | Tool        | Description    |
 | ----------- |----------------|
 | [Probable Wordlist](https://github.com/berzerk0/Probable-Wordlists)      | Wordlists sorted by probability originally created for password generation and testing. |
+| [SecLists](https://github.com/danielmiessler/SecLists) | Collection of multiple types of lists used during security assessments |
 
 #### :globe_with_meridians: Wireless Testing
 
@@ -193,6 +194,7 @@ Used for intrusion detection and wifi attacks.
 | [WiFi Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin)      | **Python** | `Linux/Windows/macOS/Android` | Framework for Rogue Wi-Fi Access Point Attack. |
 | [Airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon)      | **Shell** | `Linux/Windows/macOS` | This is a multi-use bash script for Linux systems to audit wireless networks. |
 | [Airbash](https://github.com/tehw0lf/airbash)      | **C** | `Linux/Windows/macOS` | A POSIX-compliant, fully automated WPA PSK handshake capture script aimed at penetration testing. |
+| [Wifite2](https://github.com/derv82/wifite2)      | **Python** | `Linux/Windows/macOS` | Runs existing wireless-auditing tools for you. |
 
 #### :wrench: Exploitation Tools
 
@@ -296,9 +298,10 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - [CWE](http://cwe.mitre.org/)
 - [NVD](http://web.nvd.nist.gov/)
 
+
 ## Challenges
 
-- [Vulnhub](https://www.vulnhub.com/) - Has a lot of VMs to play with. Some are beginner friendly, some aren't.
+- [Vulnhub](https://www.vulnhub.com/) - Has a lot of VMs to play with. Some are beginner friendly, some aren't. Visit [Here](https://emaragkos.gr/recommended-machines/) for details.
 - [Itsecgames](http://www.itsecgames.com/) - bWAPP or buggy web app is a deliberately insecure web application.
 - [Dvwa](http://www.dvwa.co.uk/) - Damn Vulnerable Web Application is another deliberately insecure web application to practice your skills on.
 - [Hackthissite](https://www.hackthissite.org/) - A site which provides challenges, CTFs, and more to improve your hacking skills.
