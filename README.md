@@ -1,6 +1,7 @@
 <div style="text-align:center">
   <img src="img/hacker-roadmap.jpeg" alt="Hacker Roadmap" />
 </div>
+<br>
 
 This repository is an overview of what you need to learn in penetration testing and a collection of hacking tools, resources and references to practice ethical hacking. Most of the tools are UNIX compatible, free and open source.
 
