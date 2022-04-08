@@ -181,6 +181,8 @@ Crack passwords and create wordlists.
 | Tool        | Description    |
 | ----------- |----------------|
 | [Probable Wordlist](https://github.com/berzerk0/Probable-Wordlists)      | Wordlists sorted by probability originally created for password generation and testing. |
+| [SecLists](https://github.com/danielmiessler/SecLists)      | A collection of multiple types of lists used during security assessments, collected in one place. 
+| [CeWL](https://github.com/digininja/cewl)      | spiders a given URL and returns a list of words which can be used for passwords. |
 
 #### :globe_with_meridians: Wireless Testing
 
