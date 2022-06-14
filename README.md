@@ -226,6 +226,7 @@ Exploit popular CMSs that are hosted online.
 | [Joomscan](https://github.com/rezasp/joomscan)      | **Perl** | `Linux/Windows/macOS` | Joomla Vulnerability Scanner. |
 | [Drupwn](https://github.com/immunIT/drupwn)      | **Python** | `Linux/Windows/macOS` | Drupal Security Scanner to perform enumerations on Drupal-based web applications. |
 | [CMSeek](https://github.com/Tuhinshubhra/CMSeek)      | **Python** | `Linux/Windows/macOS` | CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and 130 other CMSs. |
+| [Cyclops](https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking)      | **C++** | `Linux/Windows/macOS` | Cyclops is a web browser with XSS detection feature, it is chromium-based xss detection that used to find the flows from a source to a sink. |
 
 #### :tada: Post Exploitation
 
