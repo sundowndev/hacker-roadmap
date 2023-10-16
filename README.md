@@ -6,7 +6,7 @@ This repository is an overview of what you need to learn penetration testing and
 
 ## Status
 
-**This project has been archived**. Content might be outdated. Me and some friends are working on a brand new project that will take place here and replace the whole repository. The goal will remain the same: provide resources about professional information security for newcomers, with complete focus on training, certifications and job requirements. We don't expect this to come out before Q1 2023.
+**This project has been terminated and archived**. Content might be outdated.
 
 ----
 
